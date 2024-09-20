@@ -1,0 +1,31 @@
+Source,Destination,Time(hrs),Cost(Rs)
+Ram mandir(Bhubaneswar),Howrah Bridge(Kolkata),9.02,2005
+Ram mandir(Bhubaneswar),Dakshineswar Kali Temple(Kolkata),8.92,1990
+Ram mandir(Bhubaneswar),Park Street(Kolkata),9.02,2000
+Cuttack Chandi Temple(Cuttack) ,Victoria Memorial(Kolkata),8.33,1355
+Cuttack Chandi Temple(Cuttack) ,Howrah Bridge(Kolkata),8.43,1410
+Cuttack Chandi Temple(Cuttack) ,Dakshineswar Kali Temple(Kolkata),8.21,1300
+Cuttack Chandi Temple(Cuttack) ,Park Street(Kolkata),8.36,1350
+Qadam-I-Rasool(Cuttack),Victoria Memorial(Kolkata),8.41,1400
+Qadam-I-Rasool(Cuttack),Howrah Bridge(Kolkata),8.51,1450
+Qadam-I-Rasool(Cuttack),Dakshineswar Kali Temple(Kolkata),8.25,1305
+Qadam-I-Rasool(Cuttack),Park Street(Kolkata),8.4,1400
+Stone Revetment(Cuttack),Victoria Memorial(Kolkata),8.12,1250
+Stone Revetment(Cuttack),Howrah Bridge(Kolkata),8.05,1200
+Stone Revetment(Cuttack),Dakshineswar Kali Temple(Kolkata),8.09,1210
+Stone Revetment(Cuttack),Park Street(Kolkata),8.03,1995
+Howrah Junction Railway Station(Kolkata),Visakhapatnam Railway Station(Visakhapatnam),13,1240
+Victoria Memorial(Kolkata),Visakhapatnam Railway Station(Visakhapatnam),15.71,2736
+Howrah Bridge(Kolkata),Visakhapatnam Railway Station(Visakhapatnam),15.95,2740
+Dakshineswar Kali Temple(Kolkata),Visakhapatnam Railway Station(Visakhapatnam),15.07,2550
+Park Street(Kolkata),Visakhapatnam Railway Station(Visakhapatnam),15.78,2745
+Visakhapatnam Railway Station(Visakhapatnam),Ramakrishna Beach(Visakhapatnam),0.16,89
+Visakhapatnam Railway Station(Visakhapatnam),INS Kursurs Submarine Museum(Visakhapatnam),0.2,103
+Visakhapatnam Railway Station(Visakhapatnam),Borra Caves(Visakhapatnam),2.68,275
+Visakhapatnam Railway Station(Visakhapatnam),Araku Valley(Visakhapatnam),3.46,313
+Ramakrishna Beach(Visakhapatnam),INS Kursurs Submarine Museum(Visakhapatnam),0.03,0
+Ramakrishna Beach(Visakhapatnam),Borra Caves(Visakhapatnam),2.81,285
+Ramakrishna Beach(Visakhapatnam),Araku Valley(Visakhapatnam),3.61,350
+INS Kursurs Submarine Museum(Visakhapatnam),Borra Caves(Visakhapatnam),3.55,340
+INS Kursurs Submarine Museum(Visakhapatnam),Araku Valley(Visakhapatnam),3.55,340
+Borra Caves(Visakhapatnam),Araku Valley(Visakhapatnam),2.75,270

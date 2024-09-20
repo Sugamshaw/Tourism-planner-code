@@ -1,0 +1,424 @@
+Source,Destination,Time(hrs),Cost(Rs)
+Bhubaneswar Railway Station(Bhubaneswar),Lingaraj Temple(Bhubaneswar),0.25,55
+Bhubaneswar Railway Station(Bhubaneswar),Nandankanan Zoological Park(Bhubaneswar),0.5,200
+Bhubaneswar Railway Station(Bhubaneswar),Odisha State Museum(Bhubaneswar),0.1,30
+Bhubaneswar Railway Station(Bhubaneswar),Dhauli Shanti Stupa(Bhubaneswar),0.35,140
+Bhubaneswar Railway Station(Bhubaneswar),ISKCON Temple(Bhubaneswar),0.2,130
+Bhubaneswar Railway Station(Bhubaneswar),Rajarani Temple(Bhubaneswar),0.15,70
+Bhubaneswar Railway Station(Bhubaneswar),Mukteshwar Temple(Bhubaneswar),0.18,75
+Bhubaneswar Railway Station(Bhubaneswar),Ram mandir(Bhubaneswar),0.08,85
+Bhubaneswar Railway Station(Bhubaneswar),Regional Science Centre(Bhubaneswar),0.66,220
+Bhubaneswar Railway Station(Bhubaneswar),Khandagiri Caves(Bhubaneswar),0.11,55
+Bhubaneswar Railway Station(Bhubaneswar),Udayagiri caves(Bhubaneswar),0.26,100
+Bhubaneswar Railway Station(Bhubaneswar),Bindu Sarovar(Bhubaneswar),0.33,140
+Bhubaneswar Railway Station(Bhubaneswar),Museum of tribal arts&artifacts(Bhubaneswar),0.11,55
+Bhubaneswar Railway Station(Bhubaneswar),Chausathi Jogini Temple(Bhubaneswar),0.1,50
+Lingaraj Temple(Bhubaneswar),Nandankanan Zoological Park(Bhubaneswar),0.21,150
+Lingaraj Temple(Bhubaneswar),Odisha State Museum(Bhubaneswar),0.58,220
+Lingaraj Temple(Bhubaneswar),Dhauli Shanti Stupa(Bhubaneswar),0.8,290
+Lingaraj Temple(Bhubaneswar),ISKCON Temple(Bhubaneswar),0.36,150
+Lingaraj Temple(Bhubaneswar),Rajarani Temple(Bhubaneswar),0.46,200
+Lingaraj Temple(Bhubaneswar),Mukteshwar Temple(Bhubaneswar),0.5,210
+Lingaraj Temple(Bhubaneswar),Ram mandir(Bhubaneswar),0.36,190
+Lingaraj Temple(Bhubaneswar),Regional Science Centre(Bhubaneswar),0.3,185
+Lingaraj Temple(Bhubaneswar),Khandagiri Caves(Bhubaneswar),0.25,100
+Lingaraj Temple(Bhubaneswar),Udayagiri caves(Bhubaneswar),0.08,50
+Lingaraj Temple(Bhubaneswar),Bindu Sarovar(Bhubaneswar),0.11,55
+Lingaraj Temple(Bhubaneswar),Museum of tribal arts&artifacts(Bhubaneswar),0.13,70
+Lingaraj Temple(Bhubaneswar),Chausathi Jogini Temple(Bhubaneswar),0.3,100
+Nandankanan Zoological Park(Bhubaneswar),Odisha State Museum(Bhubaneswar),0.28,103
+Nandankanan Zoological Park(Bhubaneswar),Dhauli Shanti Stupa(Bhubaneswar),0.25,95
+Nandankanan Zoological Park(Bhubaneswar),ISKCON Temple(Bhubaneswar),0.38,150
+Nandankanan Zoological Park(Bhubaneswar),Rajarani Temple(Bhubaneswar),0.16,55
+Nandankanan Zoological Park(Bhubaneswar),Mukteshwar Temple(Bhubaneswar),0.35,190
+Nandankanan Zoological Park(Bhubaneswar),Ram mandir(Bhubaneswar),0.2,150
+Nandankanan Zoological Park(Bhubaneswar),Regional Science Centre(Bhubaneswar),0.13,0.1
+Nandankanan Zoological Park(Bhubaneswar),Khandagiri Caves(Bhubaneswar),0.18,60
+Nandankanan Zoological Park(Bhubaneswar),Udayagiri caves(Bhubaneswar),0.16,60
+Nandankanan Zoological Park(Bhubaneswar),Bindu Sarovar(Bhubaneswar),0.25,30
+Nandankanan Zoological Park(Bhubaneswar),Museum of tribal arts&artifacts(Bhubaneswar),0.5,140
+Nandankanan Zoological Park(Bhubaneswar),Chausathi Jogini Temple(Bhubaneswar),0.1,130
+Odisha State Museum(Bhubaneswar),Dhauli Shanti Stupa(Bhubaneswar),0.35,70
+Odisha State Museum(Bhubaneswar),ISKCON Temple(Bhubaneswar),0.2,75
+Odisha State Museum(Bhubaneswar),Rajarani Temple(Bhubaneswar),0.15,85
+Odisha State Museum(Bhubaneswar),Mukteshwar Temple(Bhubaneswar),0.18,220
+Odisha State Museum(Bhubaneswar),Ram mandir(Bhubaneswar),0.08,55
+Odisha State Museum(Bhubaneswar),Regional Science Centre(Bhubaneswar),0.66,100
+Odisha State Museum(Bhubaneswar),Khandagiri Caves(Bhubaneswar),0.11,140
+Odisha State Museum(Bhubaneswar),Udayagiri caves(Bhubaneswar),0.26,55
+Odisha State Museum(Bhubaneswar),Bindu Sarovar(Bhubaneswar),0.33,50
+Odisha State Museum(Bhubaneswar),Museum of tribal arts&artifacts(Bhubaneswar),0.11,150
+Odisha State Museum(Bhubaneswar),Chausathi Jogini Temple(Bhubaneswar),0.1,220
+Dhauli Shanti Stupa(Bhubaneswar),ISKCON Temple(Bhubaneswar),0.21,290
+Dhauli Shanti Stupa(Bhubaneswar),Rajarani Temple(Bhubaneswar),0.58,150
+Dhauli Shanti Stupa(Bhubaneswar),Mukteshwar Temple(Bhubaneswar),0.8,200
+Dhauli Shanti Stupa(Bhubaneswar),Ram mandir(Bhubaneswar),0.36,210
+Dhauli Shanti Stupa(Bhubaneswar),Regional Science Centre(Bhubaneswar),0.46,190
+Dhauli Shanti Stupa(Bhubaneswar),Khandagiri Caves(Bhubaneswar),0.5,185
+Dhauli Shanti Stupa(Bhubaneswar),Udayagiri caves(Bhubaneswar),0.36,100
+Dhauli Shanti Stupa(Bhubaneswar),Bindu Sarovar(Bhubaneswar),0.3,50
+Dhauli Shanti Stupa(Bhubaneswar),Museum of tribal arts&artifacts(Bhubaneswar),0.25,55
+Dhauli Shanti Stupa(Bhubaneswar),Chausathi Jogini Temple(Bhubaneswar),0.08,70
+ISKCON Temple(Bhubaneswar),Rajarani Temple(Bhubaneswar),0.11,1000
+ISKCON Temple(Bhubaneswar),Mukteshwar Temple(Bhubaneswar),0.13,103
+ISKCON Temple(Bhubaneswar),Ram mandir(Bhubaneswar),0.3,95
+ISKCON Temple(Bhubaneswar),Regional Science Centre(Bhubaneswar),0.28,150
+ISKCON Temple(Bhubaneswar),Khandagiri Caves(Bhubaneswar),0.25,55
+ISKCON Temple(Bhubaneswar),Udayagiri caves(Bhubaneswar),0.38,190
+ISKCON Temple(Bhubaneswar),Bindu Sarovar(Bhubaneswar),0.16,150
+ISKCON Temple(Bhubaneswar),Museum of tribal arts&artifacts(Bhubaneswar),0.35,120
+ISKCON Temple(Bhubaneswar),Chausathi Jogini Temple(Bhubaneswar),0.2,60
+Rajarani Temple(Bhubaneswar),Mukteshwar Temple(Bhubaneswar),0.13,60
+Rajarani Temple(Bhubaneswar),Ram mandir(Bhubaneswar),0.18,185
+Rajarani Temple(Bhubaneswar),Regional Science Centre(Bhubaneswar),0.16,100
+Rajarani Temple(Bhubaneswar),Khandagiri Caves(Bhubaneswar),0.8,50
+Rajarani Temple(Bhubaneswar),Udayagiri caves(Bhubaneswar),0.36,55
+Rajarani Temple(Bhubaneswar),Bindu Sarovar(Bhubaneswar),0.46,70
+Rajarani Temple(Bhubaneswar),Museum of tribal arts&artifacts(Bhubaneswar),0.5,100
+Rajarani Temple(Bhubaneswar),Chausathi Jogini Temple(Bhubaneswar),0.36,103
+Mukteshwar Temple(Bhubaneswar),Ram mandir(Bhubaneswar),0.3,95
+Mukteshwar Temple(Bhubaneswar),Regional Science Centre(Bhubaneswar),0.25,150
+Mukteshwar Temple(Bhubaneswar),Khandagiri Caves(Bhubaneswar),0.08,55
+Mukteshwar Temple(Bhubaneswar),Udayagiri caves(Bhubaneswar),0.11,190
+Mukteshwar Temple(Bhubaneswar),Bindu Sarovar(Bhubaneswar),0.16,150
+Mukteshwar Temple(Bhubaneswar),Museum of tribal arts&artifacts(Bhubaneswar),0.25,100
+Mukteshwar Temple(Bhubaneswar),Chausathi Jogini Temple(Bhubaneswar),0.5,60
+Ram mandir(Bhubaneswar),Regional Science Centre(Bhubaneswar),0.1,60
+Ram mandir(Bhubaneswar),Khandagiri Caves(Bhubaneswar),0.35,30
+Ram mandir(Bhubaneswar),Udayagiri caves(Bhubaneswar),0.2,140
+Ram mandir(Bhubaneswar),Bindu Sarovar(Bhubaneswar),0.15,130
+Ram mandir(Bhubaneswar),Museum of tribal arts&artifacts(Bhubaneswar),0.18,70
+Ram mandir(Bhubaneswar),Chausathi Jogini Temple(Bhubaneswar),0.08,85
+Regional Science Centre(Bhubaneswar),Khandagiri Caves(Bhubaneswar),0.66,220
+Regional Science Centre(Bhubaneswar),Udayagiri caves(Bhubaneswar),0.11,55
+Regional Science Centre(Bhubaneswar),Bindu Sarovar(Bhubaneswar),0.26,100
+Regional Science Centre(Bhubaneswar),Museum of tribal arts&artifacts(Bhubaneswar),0.33,140
+Regional Science Centre(Bhubaneswar),Chausathi Jogini Temple(Bhubaneswar),0.33,55
+Khandagiri Caves(Bhubaneswar),Udayagiri caves(Bhubaneswar),0.11,50
+Khandagiri Caves(Bhubaneswar),Bindu Sarovar(Bhubaneswar),0.1,150
+Khandagiri Caves(Bhubaneswar),Museum of tribal arts&artifacts(Bhubaneswar),0.21,220
+Khandagiri Caves(Bhubaneswar),Chausathi Jogini Temple(Bhubaneswar),0.58,290
+Udayagiri caves(Bhubaneswar),Bindu Sarovar(Bhubaneswar),0.8,150
+Udayagiri caves(Bhubaneswar),Museum of tribal arts&artifacts(Bhubaneswar),0.36,200
+Udayagiri caves(Bhubaneswar),Chausathi Jogini Temple(Bhubaneswar),0.46,210
+Bindu Sarovar(Bhubaneswar),Museum of tribal arts&artifacts(Bhubaneswar),0.5,190
+Bindu Sarovar(Bhubaneswar),Chausathi Jogini Temple(Bhubaneswar),0.36,120
+Museum of tribal arts&artifacts(Bhubaneswar),Chausathi Jogini Temple(Bhubaneswar),0.3,100
+Cuttack Junction Railway Station(Cuttack),Cuttack Chandi Temple(Cuttack),0.23,88
+Cuttack Junction Railway Station(Cuttack),Qadam-I-Rasool(Cuttack),0.23,90
+Cuttack Junction Railway Station(Cuttack),Stone Revetment(Cuttack),0.2,90
+Cuttack Junction Railway Station(Cuttack),Netaji Birth Place Museum(Cuttack),0.15,70
+Cuttack Junction Railway Station(Cuttack),Dhabaleswar Island(Cuttack),0.06,50
+Cuttack Junction Railway Station(Cuttack),Barabati Stadium(Cuttack),0.13,60
+Cuttack Junction Railway Station(Cuttack),Mahanadi Barrage(Cuttack),0.13,70
+Cuttack Junction Railway Station(Cuttack),Odisha Maritime Museum(Cuttack),0.32,80
+Cuttack Junction Railway Station(Cuttack),Anantashayana Vishnu(Cuttack),0.5,10
+Cuttack Junction Railway Station(Cuttack),Barabati Fort(Cuttack),0.15,95
+Cuttack Junction Railway Station(Cuttack),Paradeep Beach(Cuttack),0.7,100
+Cuttack Junction Railway Station(Cuttack),Simhanath Temple(Cuttack),1.1,50
+Cuttack Junction Railway Station(Cuttack),Deer Park(Cuttack),1.2,140
+Cuttack Junction Railway Station(Cuttack),kantilo(Cuttack),0.4,110
+Cuttack Chandi Temple(Cuttack),Qadam-I-Rasool(Cuttack),0.7,105
+Cuttack Chandi Temple(Cuttack),Stone Revetment(Cuttack),0.56,115
+Cuttack Chandi Temple(Cuttack),Netaji Birth Place Museum(Cuttack),0.13,120
+Cuttack Chandi Temple(Cuttack),Dhabaleswar Island(Cuttack),1.34,130
+Cuttack Chandi Temple(Cuttack),Barabati Stadium(Cuttack),1.2,110
+Cuttack Chandi Temple(Cuttack),Mahanadi Barrage(Cuttack),0.44,130
+Cuttack Chandi Temple(Cuttack),Odisha Maritime Museum(Cuttack),0.23,150
+Cuttack Chandi Temple(Cuttack),Anantashayana Vishnu(Cuttack),0.36,290
+Cuttack Chandi Temple(Cuttack),Barabati Fort(Cuttack),0.84,150
+Cuttack Chandi Temple(Cuttack),Paradeep Beach(Cuttack),0.25,200
+Cuttack Chandi Temple(Cuttack),Simhanath Temple(Cuttack),0.39,210
+Cuttack Chandi Temple(Cuttack),Deer Park(Cuttack),0.28,190
+Cuttack Chandi Temple(Cuttack),kantilo(Cuttack),0.54,185
+Qadam-I-Rasool(Cuttack),Stone Revetment(Cuttack),0.22,100
+Qadam-I-Rasool(Cuttack),Netaji Birth Place Museum(Cuttack),0.48,50
+Qadam-I-Rasool(Cuttack),Dhabaleswar Island(Cuttack),0.55,120
+Qadam-I-Rasool(Cuttack),Barabati Stadium(Cuttack),0.59,70
+Qadam-I-Rasool(Cuttack),Mahanadi Barrage(Cuttack),0.95,100
+Qadam-I-Rasool(Cuttack),Odisha Maritime Museum(Cuttack),1.34,103
+Qadam-I-Rasool(Cuttack),Anantashayana Vishnu(Cuttack),0.82,95
+Qadam-I-Rasool(Cuttack),Barabati Fort(Cuttack),0.29,150
+Qadam-I-Rasool(Cuttack),Paradeep Beach(Cuttack),0.91,55
+Qadam-I-Rasool(Cuttack),Simhanath Temple(Cuttack),0.38,190
+Qadam-I-Rasool(Cuttack),Deer Park(Cuttack),0.48,150
+Qadam-I-Rasool(Cuttack),kantilo(Cuttack),0.1,10
+Stone Revetment(Cuttack),Netaji Birth Place Museum(Cuttack),1.4,60
+Stone Revetment(Cuttack),Dhabaleswar Island(Cuttack),0.69,60
+Stone Revetment(Cuttack),Barabati Stadium(Cuttack),0.7,30
+Stone Revetment(Cuttack),Mahanadi Barrage(Cuttack),0.56,140
+Stone Revetment(Cuttack),Odisha Maritime Museum(Cuttack),0.13,130
+Stone Revetment(Cuttack),Anantashayana Vishnu(Cuttack),1.34,70
+Stone Revetment(Cuttack),Barabati Fort(Cuttack),1.2,75
+Stone Revetment(Cuttack),Paradeep Beach(Cuttack),0.44,85
+Stone Revetment(Cuttack),Simhanath Temple(Cuttack),0.23,220
+Stone Revetment(Cuttack),Deer Park(Cuttack),0.36,55
+Stone Revetment(Cuttack),kantilo(Cuttack),0.84,100
+Netaji Birth Place Museum(Cuttack),Dhabaleswar Island(Cuttack),0.25,140
+Netaji Birth Place Museum(Cuttack),Barabati Stadium(Cuttack),0.39,55
+Netaji Birth Place Museum(Cuttack),Mahanadi Barrage(Cuttack),0.28,50
+Netaji Birth Place Museum(Cuttack),Odisha Maritime Museum(Cuttack),0.54,150
+Netaji Birth Place Museum(Cuttack),Anantashayana Vishnu(Cuttack),0.22,220
+Netaji Birth Place Museum(Cuttack),Barabati Fort(Cuttack),0.48,290
+Netaji Birth Place Museum(Cuttack),Paradeep Beach(Cuttack),0.55,150
+Netaji Birth Place Museum(Cuttack),Simhanath Temple(Cuttack),0.59,200
+Netaji Birth Place Museum(Cuttack),Deer Park(Cuttack),0.95,210
+Netaji Birth Place Museum(Cuttack),kantilo(Cuttack),1.34,190
+Dhabaleswar Island(Cuttack),Barabati Stadium(Cuttack),0.82,110
+Dhabaleswar Island(Cuttack),Mahanadi Barrage(Cuttack),0.29,120
+Dhabaleswar Island(Cuttack),Odisha Maritime Museum(Cuttack),0.91,103
+Dhabaleswar Island(Cuttack),Anantashayana Vishnu(Cuttack),0.38,178
+Dhabaleswar Island(Cuttack),Barabati Fort(Cuttack),0.48,82
+Dhabaleswar Island(Cuttack),Paradeep Beach(Cuttack),0.1,10
+Dhabaleswar Island(Cuttack),Simhanath Temple(Cuttack),1.4,63
+Dhabaleswar Island(Cuttack),Deer Park(Cuttack),0.69,180
+Dhabaleswar Island(Cuttack),kantilo(Cuttack),0.3,162
+Barabati Stadium(Cuttack),Mahanadi Barrage(Cuttack),0.28,110
+Barabati Stadium(Cuttack),Odisha Maritime Museum(Cuttack),0.25,111
+Barabati Stadium(Cuttack),Anantashayana Vishnu(Cuttack),0.38,110
+Barabati Stadium(Cuttack),Barabati Fort(Cuttack),0.16,105
+Barabati Stadium(Cuttack),Paradeep Beach(Cuttack),0.35,100
+Barabati Stadium(Cuttack),Simhanath Temple(Cuttack),0.2,122
+Barabati Stadium(Cuttack),Deer Park(Cuttack),0.13,110
+Barabati Stadium(Cuttack),kantilo(Cuttack),0.18,103
+Mahanadi Barrage(Cuttack),Odisha Maritime Museum(Cuttack),0.16,115
+Mahanadi Barrage(Cuttack),Anantashayana Vishnu(Cuttack),0.8,105
+Mahanadi Barrage(Cuttack),Barabati Fort(Cuttack),0.36,104
+Mahanadi Barrage(Cuttack),Paradeep Beach(Cuttack),0.46,120
+Mahanadi Barrage(Cuttack),Simhanath Temple(Cuttack),0.5,125
+Mahanadi Barrage(Cuttack),Deer Park(Cuttack),0.36,110
+Mahanadi Barrage(Cuttack),kantilo(Cuttack),0.3,110
+Odisha Maritime Museum(Cuttack),Anantashayana Vishnu(Cuttack),0.25,135
+Odisha Maritime Museum(Cuttack),Barabati Fort(Cuttack),0.08,200
+Odisha Maritime Museum(Cuttack),Paradeep Beach(Cuttack),0.11,210
+Odisha Maritime Museum(Cuttack),Simhanath Temple(Cuttack),0.16,220
+Odisha Maritime Museum(Cuttack),Deer Park(Cuttack),0.46,215
+Odisha Maritime Museum(Cuttack),kantilo(Cuttack),0.5,220
+Anantashayana Vishnu(Cuttack),Barabati Fort(Cuttack),0.36,216
+Anantashayana Vishnu(Cuttack),Paradeep Beach(Cuttack),0.3,170
+Anantashayana Vishnu(Cuttack),Simhanath Temple(Cuttack),0.23,130
+Anantashayana Vishnu(Cuttack),Deer Park(Cuttack),0.23,170
+Anantashayana Vishnu(Cuttack),kantilo(Cuttack),0.2,190
+Barabati Fort(Cuttack),Paradeep Beach(Cuttack),0.15,189
+Barabati Fort(Cuttack),Simhanath Temple(Cuttack),0.06,160
+Barabati Fort(Cuttack),Deer Park(Cuttack),0.13,90
+Barabati Fort(Cuttack),kantilo(Cuttack),0.13,91
+Paradeep Beach(Cuttack),Simhanath Temple(Cuttack),0.32,126
+Paradeep Beach(Cuttack),Deer Park(Cuttack),0.5,150
+Paradeep Beach(Cuttack),kantilo(Cuttack),0.15,92
+Simhanath Temple(Cuttack),Deer Park(Cuttack),0.7,140
+Simhanath Temple(Cuttack),kantilo(Cuttack),1.1,120
+Deer Park(Cuttack),kantilo(Cuttack),1.2,135
+Howrah Junction Railway Station(Kolkata),Victoria Memorial(Kolkata),0.4,295
+Howrah Junction Railway Station(Kolkata),Howrah Bridge(Kolkata),0.7,0.1
+Howrah Junction Railway Station(Kolkata),Dakshineswar Kali Temple(Kolkata),0.56,373
+Howrah Junction Railway Station(Kolkata),Park Street(Kolkata),0.13,226
+Howrah Junction Railway Station(Kolkata),Mother House(Kolkata),1.34,161
+Howrah Junction Railway Station(Kolkata),Eden Garden(Kolkata),0.46,220
+Howrah Junction Railway Station(Kolkata),College Street(Kolkata),0.5,129
+Howrah Junction Railway Station(Kolkata),Eco Tourism Park(Kolkata),0.36,328
+Howrah Junction Railway Station(Kolkata),Birla Temple(Kolkata),0.3,214
+Howrah Junction Railway Station(Kolkata),Prinsep Ghat(Kolkata),0.25,331
+Howrah Junction Railway Station(Kolkata),Science City(Kolkata),0.08,150
+Howrah Junction Railway Station(Kolkata),New Market(Kolkata),0.11,200
+Howrah Junction Railway Station(Kolkata),Quest Mall(Kolkata),0.16,220
+Howrah Junction Railway Station(Kolkata),Parashnath Jain Temple(Kolkata),0.25,250
+Victoria Memorial(Kolkata),Howrah Bridge(Kolkata),0.5,240
+Victoria Memorial(Kolkata),Dakshineswar Kali Temple(Kolkata),0.1,190
+Victoria Memorial(Kolkata),Park Street(Kolkata),0.35,130
+Victoria Memorial(Kolkata),Mother House(Kolkata),0.2,130
+Victoria Memorial(Kolkata),Eden Garden(Kolkata),0.15,110
+Victoria Memorial(Kolkata),College Street(Kolkata),0.18,140
+Victoria Memorial(Kolkata),Eco Tourism Park(Kolkata),0.08,150
+Victoria Memorial(Kolkata),Birla Temple(Kolkata),0.66,170
+Victoria Memorial(Kolkata),Prinsep Ghat(Kolkata),0.11,105
+Victoria Memorial(Kolkata),Science City(Kolkata),0.26,107
+Victoria Memorial(Kolkata),New Market(Kolkata),0.33,133
+Victoria Memorial(Kolkata),Quest Mall(Kolkata),0.33,196
+Victoria Memorial(Kolkata),Parashnath Jain Temple(Kolkata),0.11,50
+Howrah Bridge(Kolkata),Dakshineswar Kali Temple(Kolkata),0.1,65
+Howrah Bridge(Kolkata),Park Street(Kolkata),0.21,70
+Howrah Bridge(Kolkata),Mother House(Kolkata),0.88,180
+Howrah Bridge(Kolkata),Eden Garden(Kolkata),0.78,160
+Howrah Bridge(Kolkata),College Street(Kolkata),0.83,300
+Howrah Bridge(Kolkata),Eco Tourism Park(Kolkata),0.39,231
+Howrah Bridge(Kolkata),Birla Temple(Kolkata),0.38,103
+Howrah Bridge(Kolkata),Prinsep Ghat(Kolkata),0.39,169
+Howrah Bridge(Kolkata),Science City(Kolkata),0.39,200
+Howrah Bridge(Kolkata),New Market(Kolkata),0.58,102
+Howrah Bridge(Kolkata),Quest Mall(Kolkata),0.38,300
+Howrah Bridge(Kolkata),Parashnath Jain Temple(Kolkata),0.49,129
+Dakshineswar Kali Temple(Kolkata),Park Street(Kolkata),0.39,389
+Dakshineswar Kali Temple(Kolkata),Mother House(Kolkata),0.29,110
+Dakshineswar Kali Temple(Kolkata),Eden Garden(Kolkata),0.91,289
+Dakshineswar Kali Temple(Kolkata),College Street(Kolkata),0.38,170
+Dakshineswar Kali Temple(Kolkata),Eco Tourism Park(Kolkata),0.48,140
+Dakshineswar Kali Temple(Kolkata),Birla Temple(Kolkata),0.1,110
+Dakshineswar Kali Temple(Kolkata),Prinsep Ghat(Kolkata),1.4,80
+Dakshineswar Kali Temple(Kolkata),Science City(Kolkata),0.69,170
+Dakshineswar Kali Temple(Kolkata),New Market(Kolkata),0.3,283
+Dakshineswar Kali Temple(Kolkata),Quest Mall(Kolkata),0.28,331
+Dakshineswar Kali Temple(Kolkata),Parashnath Jain Temple(Kolkata),0.25,123
+Park Street(Kolkata),Mother House(Kolkata),0.38,149
+Park Street(Kolkata),Eden Garden(Kolkata),0.16,130
+Park Street(Kolkata),College Street(Kolkata),0.35,110
+Park Street(Kolkata),Eco Tourism Park(Kolkata),0.2,130
+Park Street(Kolkata),Birla Temple(Kolkata),0.13,150
+Park Street(Kolkata),Prinsep Ghat(Kolkata),0.18,290
+Park Street(Kolkata),Science City(Kolkata),0.16,150
+Park Street(Kolkata),New Market(Kolkata),0.8,200
+Park Street(Kolkata),Quest Mall(Kolkata),0.36,210
+Park Street(Kolkata),Parashnath Jain Temple(Kolkata),0.46,190
+Mother House(Kolkata),Eden Garden(Kolkata),0.5,185
+Mother House(Kolkata),College Street(Kolkata),0.36,100
+Mother House(Kolkata),Eco Tourism Park(Kolkata),0.3,50
+Mother House(Kolkata),Birla Temple(Kolkata),0.25,120
+Mother House(Kolkata),Prinsep Ghat(Kolkata),0.08,70
+Mother House(Kolkata),Science City(Kolkata),0.11,100
+Mother House(Kolkata),New Market(Kolkata),0.16,103
+Mother House(Kolkata),Quest Mall(Kolkata),0.46,95
+Mother House(Kolkata),Parashnath Jain Temple(Kolkata),0.5,150
+Eden Garden(Kolkata),College Street(Kolkata),0.36,55
+Eden Garden(Kolkata),Eco Tourism Park(Kolkata),0.3,190
+Eden Garden(Kolkata),Birla Temple(Kolkata),0.13,150
+Eden Garden(Kolkata),Prinsep Ghat(Kolkata),0.18,10
+Eden Garden(Kolkata),Science City(Kolkata),0.16,60
+Eden Garden(Kolkata),New Market(Kolkata),0.8,60
+Eden Garden(Kolkata),Quest Mall(Kolkata),0.36,30
+Eden Garden(Kolkata),Parashnath Jain Temple(Kolkata),0.46,140
+College Street(Kolkata),Eco Tourism Park(Kolkata),0.5,130
+College Street(Kolkata),Birla Temple(Kolkata),0.36,70
+College Street(Kolkata),Prinsep Ghat(Kolkata),0.3,75
+College Street(Kolkata),Science City(Kolkata),0.25,85
+College Street(Kolkata),New Market(Kolkata),0.08,220
+College Street(Kolkata),Quest Mall(Kolkata),0.11,55
+College Street(Kolkata),Parashnath Jain Temple(Kolkata),0.16,100
+Eco Tourism Park(Kolkata),Birla Temple(Kolkata),0.46,140
+Eco Tourism Park(Kolkata),Prinsep Ghat(Kolkata),0.5,55
+Eco Tourism Park(Kolkata),Science City(Kolkata),0.36,50
+Eco Tourism Park(Kolkata),New Market(Kolkata),0.3,150
+Eco Tourism Park(Kolkata),Quest Mall(Kolkata),0.23,220
+Eco Tourism Park(Kolkata),Parashnath Jain Temple(Kolkata),0.23,290
+Birla Temple(Kolkata),Prinsep Ghat(Kolkata),0.2,150
+Birla Temple(Kolkata),Science City(Kolkata),0.15,200
+Birla Temple(Kolkata),New Market(Kolkata),0.06,210
+Birla Temple(Kolkata),Quest Mall(Kolkata),0.13,190
+Birla Temple(Kolkata),Parashnath Jain Temple(Kolkata),0.13,110
+Prinsep Ghat(Kolkata),Science City(Kolkata),0.32,120
+Prinsep Ghat(Kolkata),New Market(Kolkata),0.5,103
+Prinsep Ghat(Kolkata),Quest Mall(Kolkata),0.15,178
+Prinsep Ghat(Kolkata),Parashnath Jain Temple(Kolkata),0.7,82
+Science City(Kolkata),New Market(Kolkata),1.1,10
+Science City(Kolkata),Quest Mall(Kolkata),1.2,63
+Science City(Kolkata),Parashnath Jain Temple(Kolkata),0.4,180
+New Market(Kolkata),Quest Mall(Kolkata),0.7,162
+New Market(Kolkata),Parashnath Jain Temple(Kolkata),0.56,110
+Quest Mall(Kolkata),Parashnath Jain Temple(Kolkata),0.13,111
+Visakhapatnam Railway Station(Visakhapatnam),RK Beach (Ramakrishna Beach)(Visakhapatnam),1.34,110
+Visakhapatnam Railway Station(Visakhapatnam),INS Kursura Submarine Museum(Visakhapatnam),0.46,105
+Visakhapatnam Railway Station(Visakhapatnam),Borra Caves(Visakhapatnam),0.5,100
+Visakhapatnam Railway Station(Visakhapatnam),Araku Valley(Visakhapatnam),0.36,122
+Visakhapatnam Railway Station(Visakhapatnam),Varaha Lakshmi Narasimha Temple(Visakhapatnam),0.3,110
+Visakhapatnam Railway Station(Visakhapatnam),Biodiversity Park(Visakhapatnam),0.25,103
+Visakhapatnam Railway Station(Visakhapatnam),Kailasagiri(Visakhapatnam),0.08,115
+Visakhapatnam Railway Station(Visakhapatnam),Rushikonda Beach(Visakhapatnam),0.11,105
+Visakhapatnam Railway Station(Visakhapatnam),Yarada Beach(Visakhapatnam),0.16,104
+Visakhapatnam Railway Station(Visakhapatnam),Ramakrishna Beach(Visakhapatnam),0.25,270
+Visakhapatnam Railway Station(Visakhapatnam),Dolphin's Nose(Visakhapatnam),0.5,150
+Visakhapatnam Railway Station(Visakhapatnam),Indira Gandhi Zoological Park(Visakhapatnam),0.1,120
+Visakhapatnam Railway Station(Visakhapatnam),Submarine Museum(Visakhapatnam),0.35,60
+Visakhapatnam Railway Station(Visakhapatnam),Katiki Waterfalls(Visakhapatnam),0.2,60
+RK Beach (Ramakrishna Beach)(Visakhapatnam),INS Kursura Submarine Museum(Visakhapatnam),0.15,185
+RK Beach (Ramakrishna Beach)(Visakhapatnam),Borra Caves(Visakhapatnam),0.18,100
+RK Beach (Ramakrishna Beach)(Visakhapatnam),Araku Valley(Visakhapatnam),0.08,50
+RK Beach (Ramakrishna Beach)(Visakhapatnam),Varaha Lakshmi Narasimha Temple(Visakhapatnam),0.66,55
+RK Beach (Ramakrishna Beach)(Visakhapatnam),Biodiversity Park(Visakhapatnam),0.11,70
+RK Beach (Ramakrishna Beach)(Visakhapatnam),Kailasagiri(Visakhapatnam),0.26,100
+RK Beach (Ramakrishna Beach)(Visakhapatnam),Rushikonda Beach(Visakhapatnam),0.33,103
+RK Beach (Ramakrishna Beach)(Visakhapatnam),Yarada Beach(Visakhapatnam),0.33,95
+RK Beach (Ramakrishna Beach)(Visakhapatnam),Ramakrishna Beach(Visakhapatnam),0.11,150
+RK Beach (Ramakrishna Beach)(Visakhapatnam),Dolphin's Nose(Visakhapatnam),0.1,55
+RK Beach (Ramakrishna Beach)(Visakhapatnam),Indira Gandhi Zoological Park(Visakhapatnam),0.21,190
+RK Beach (Ramakrishna Beach)(Visakhapatnam),Submarine Museum(Visakhapatnam),0.88,150
+RK Beach (Ramakrishna Beach)(Visakhapatnam),Katiki Waterfalls(Visakhapatnam),0.78,100
+INS Kursura Submarine Museum(Visakhapatnam),Borra Caves(Visakhapatnam),0.83,60
+INS Kursura Submarine Museum(Visakhapatnam),Araku Valley(Visakhapatnam),0.39,60
+INS Kursura Submarine Museum(Visakhapatnam),Varaha Lakshmi Narasimha Temple(Visakhapatnam),0.38,30
+INS Kursura Submarine Museum(Visakhapatnam),Biodiversity Park(Visakhapatnam),0.39,140
+INS Kursura Submarine Museum(Visakhapatnam),Kailasagiri(Visakhapatnam),0.39,130
+INS Kursura Submarine Museum(Visakhapatnam),Rushikonda Beach(Visakhapatnam),0.58,70
+INS Kursura Submarine Museum(Visakhapatnam),Yarada Beach(Visakhapatnam),0.38,85
+INS Kursura Submarine Museum(Visakhapatnam),Ramakrishna Beach(Visakhapatnam),0.49,220
+INS Kursura Submarine Museum(Visakhapatnam),Dolphin's Nose(Visakhapatnam),0.39,55
+INS Kursura Submarine Museum(Visakhapatnam),Indira Gandhi Zoological Park(Visakhapatnam),0.29,100
+INS Kursura Submarine Museum(Visakhapatnam),Submarine Museum(Visakhapatnam),0.91,140
+INS Kursura Submarine Museum(Visakhapatnam),Katiki Waterfalls(Visakhapatnam),0.38,55
+Borra Caves(Visakhapatnam),Araku Valley(Visakhapatnam),0.48,50
+Borra Caves(Visakhapatnam),Varaha Lakshmi Narasimha Temple(Visakhapatnam),0.1,150
+Borra Caves(Visakhapatnam),Biodiversity Park(Visakhapatnam),1.4,220
+Borra Caves(Visakhapatnam),Kailasagiri(Visakhapatnam),0.69,290
+Borra Caves(Visakhapatnam),Rushikonda Beach(Visakhapatnam),0.3,150
+Borra Caves(Visakhapatnam),Yarada Beach(Visakhapatnam),0.28,200
+Borra Caves(Visakhapatnam),Ramakrishna Beach(Visakhapatnam),0.25,210
+Borra Caves(Visakhapatnam),Dolphin's Nose(Visakhapatnam),0.38,190
+Borra Caves(Visakhapatnam),Indira Gandhi Zoological Park(Visakhapatnam),0.16,120
+Borra Caves(Visakhapatnam),Submarine Museum(Visakhapatnam),0.35,100
+Borra Caves(Visakhapatnam),Katiki Waterfalls(Visakhapatnam),0.2,200
+Araku Valley(Visakhapatnam),Varaha Lakshmi Narasimha Temple(Visakhapatnam),0.13,102
+Araku Valley(Visakhapatnam),Biodiversity Park(Visakhapatnam),0.18,300
+Araku Valley(Visakhapatnam),Kailasagiri(Visakhapatnam),0.16,129
+Araku Valley(Visakhapatnam),Rushikonda Beach(Visakhapatnam),0.8,389
+Araku Valley(Visakhapatnam),Yarada Beach(Visakhapatnam),0.36,110
+Araku Valley(Visakhapatnam),Ramakrishna Beach(Visakhapatnam),0.46,289
+Araku Valley(Visakhapatnam),Dolphin's Nose(Visakhapatnam),0.5,170
+Araku Valley(Visakhapatnam),Indira Gandhi Zoological Park(Visakhapatnam),0.36,140
+Araku Valley(Visakhapatnam),Submarine Museum(Visakhapatnam),0.3,110
+Araku Valley(Visakhapatnam),Katiki Waterfalls(Visakhapatnam),0.25,80
+Varaha Lakshmi Narasimha Temple(Visakhapatnam),Biodiversity Park(Visakhapatnam),0.08,170
+Varaha Lakshmi Narasimha Temple(Visakhapatnam),Kailasagiri(Visakhapatnam),0.11,283
+Varaha Lakshmi Narasimha Temple(Visakhapatnam),Rushikonda Beach(Visakhapatnam),0.16,331
+Varaha Lakshmi Narasimha Temple(Visakhapatnam),Yarada Beach(Visakhapatnam),0.46,123
+Varaha Lakshmi Narasimha Temple(Visakhapatnam),Ramakrishna Beach(Visakhapatnam),0.5,149
+Varaha Lakshmi Narasimha Temple(Visakhapatnam),Dolphin's Nose(Visakhapatnam),0.36,130
+Varaha Lakshmi Narasimha Temple(Visakhapatnam),Indira Gandhi Zoological Park(Visakhapatnam),0.3,110
+Varaha Lakshmi Narasimha Temple(Visakhapatnam),Submarine Museum(Visakhapatnam),0.23,130
+Varaha Lakshmi Narasimha Temple(Visakhapatnam),Katiki Waterfalls(Visakhapatnam),0.36,150
+Biodiversity Park(Visakhapatnam),Kailasagiri(Visakhapatnam),0.84,290
+Biodiversity Park(Visakhapatnam),Rushikonda Beach(Visakhapatnam),0.25,150
+Biodiversity Park(Visakhapatnam),Yarada Beach(Visakhapatnam),0.39,200
+Biodiversity Park(Visakhapatnam),Ramakrishna Beach(Visakhapatnam),0.28,210
+Biodiversity Park(Visakhapatnam),Dolphin's Nose(Visakhapatnam),0.54,190
+Biodiversity Park(Visakhapatnam),Indira Gandhi Zoological Park(Visakhapatnam),0.22,185
+Biodiversity Park(Visakhapatnam),Submarine Museum(Visakhapatnam),0.48,100
+Biodiversity Park(Visakhapatnam),Katiki Waterfalls(Visakhapatnam),0.55,50
+Kailasagiri(Visakhapatnam),Rushikonda Beach(Visakhapatnam),0.59,120
+Kailasagiri(Visakhapatnam),Yarada Beach(Visakhapatnam),0.95,70
+Kailasagiri(Visakhapatnam),Ramakrishna Beach(Visakhapatnam),1.34,100
+Kailasagiri(Visakhapatnam),Dolphin's Nose(Visakhapatnam),0.82,103
+Kailasagiri(Visakhapatnam),Indira Gandhi Zoological Park(Visakhapatnam),0.29,216
+Kailasagiri(Visakhapatnam),Submarine Museum(Visakhapatnam),0.91,170
+Kailasagiri(Visakhapatnam),Katiki Waterfalls(Visakhapatnam),0.38,130
+Rushikonda Beach(Visakhapatnam),Yarada Beach(Visakhapatnam),0.48,170
+Rushikonda Beach(Visakhapatnam),Ramakrishna Beach(Visakhapatnam),0.1,190
+Rushikonda Beach(Visakhapatnam),Dolphin's Nose(Visakhapatnam),1.4,189
+Rushikonda Beach(Visakhapatnam),Indira Gandhi Zoological Park(Visakhapatnam),0.69,160
+Rushikonda Beach(Visakhapatnam),Submarine Museum(Visakhapatnam),0.1,90
+Rushikonda Beach(Visakhapatnam),Katiki Waterfalls(Visakhapatnam),0.35,91
+Yarada Beach(Visakhapatnam),Ramakrishna Beach(Visakhapatnam),0.2,126
+Yarada Beach(Visakhapatnam),Dolphin's Nose(Visakhapatnam),0.15,150
+Yarada Beach(Visakhapatnam),Indira Gandhi Zoological Park(Visakhapatnam),0.18,92
+Yarada Beach(Visakhapatnam),Submarine Museum(Visakhapatnam),0.08,140
+Yarada Beach(Visakhapatnam),Katiki Waterfalls(Visakhapatnam),0.66,120
+Yarada Beach(Visakhapatnam),Dolphin's Nose(Visakhapatnam),0.11,135
+Ramakrishna Beach(Visakhapatnam),Indira Gandhi Zoological Park(Visakhapatnam),0.26,295
+Ramakrishna Beach(Visakhapatnam),Submarine Museum(Visakhapatnam),0.33,200
+Ramakrishna Beach(Visakhapatnam),Katiki Waterfalls(Visakhapatnam),0.33,210
+Dolphin's Nose(Visakhapatnam),Indira Gandhi Zoological Park(Visakhapatnam),0.11,313
+Dolphin's Nose(Visakhapatnam),Submarine Museum(Visakhapatnam),0.1,282
+Dolphin's Nose(Visakhapatnam),Katiki Waterfalls(Visakhapatnam),0.55,112
+Indira Gandhi Zoological Park(Visakhapatnam),Submarine Museum(Visakhapatnam),0.59,282
+Indira Gandhi Zoological Park(Visakhapatnam),Katiki Waterfalls(Visakhapatnam),0.95,293
+Submarine Museum(Visakhapatnam),Katiki Waterfalls(Visakhapatnam),1.34,282
+Bhubaneswar Railway Station(Bhubaneswar),Cuttack Junction Railway Station(Cuttack),0.55,145
+Cuttack Junction Railway Station(Cuttack),Howrah Junction Railway Station(Kolkata),6.75,800
+Howrah Junction Railway Station(Kolkata),Visakhapatnam Railway Station(Visakhapatnam),13,1240

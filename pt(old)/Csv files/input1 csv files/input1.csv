@@ -1,0 +1,31 @@
+Source,Destination,Time(hrs),Cost(Rs)
+Bhubaneswar Railway Station(Bhubaneswar),Lingaraj Temple(Bhubaneswar),0.25,150
+Bhubaneswar Railway Station(Bhubaneswar),Nandankanan Zoological Park(Bhubaneswar),0.5,200
+Bhubaneswar Railway Station(Bhubaneswar),Odisha State Museum(Bhubaneswar),0.1,30
+Bhubaneswar Railway Station(Bhubaneswar),Stone Revetment(Cuttack),0.35,140
+Bhubaneswar Railway Station(Bhubaneswar),ISKCON Temple(Bhubaneswar),0.2,130
+Bhubaneswar Railway Station(Bhubaneswar),Rajarani Temple(Bhubaneswar),0.15,70
+Bhubaneswar Railway Station(Bhubaneswar),Mukteswara Temple(Bhubaneswar),0.18,75
+Bhubaneswar Railway Station(Bhubaneswar),Ram mandir(Bhubaneswar),0.08,85
+Lingaraj Temple(Bhubaneswar),Nandankanan Zoological Park(Bhubaneswar),0.66,220
+Lingaraj Temple(Bhubaneswar),Odisha State Museum(Bhubaneswar),0.11,55
+Lingaraj Temple(Bhubaneswar),Dhauli Shanti Stupa(Bhubaneswar),0.26,100
+Lingaraj Temple(Bhubaneswar),ISKCON Temple(Bhubaneswar),0.33,140
+Lingaraj Temple(Bhubaneswar),Rajarani Temple(Bhubaneswar),0.11,55
+Lingaraj Temple(Bhubaneswar),Mukteswara Temple(Bhubaneswar),0.1,50
+Lingaraj Temple(Bhubaneswar),Ram mandir(Bhubaneswar),0.21,150
+Nandankanan Zoological Park(Bhubaneswar),Odisha State Museum(Bhubaneswar),0.58,220
+Nandankanan Zoological Park(Bhubaneswar),Dhauli Shanti Stupa(Bhubaneswar),0.8,290
+Nandankanan Zoological Park(Bhubaneswar),ISKCON Temple(Bhubaneswar),0.36,150
+Nandankanan Zoological Park(Bhubaneswar),Rajarani Temple(Bhubaneswar),0.46,200
+Nandankanan Zoological Park(Bhubaneswar),Mukteswara Temple(Bhubaneswar),0.5,210
+Nandankanan Zoological Park(Bhubaneswar),Ram mandir(Bhubaneswar),0.36,190
+Odisha State Museum(Bhubaneswar),Dhauli Shanti Stupa(Bhubaneswar),0.3,185
+Odisha State Museum(Bhubaneswar),ISKCON Temple(Bhubaneswar),0.25,100
+Odisha State Museum(Bhubaneswar),Rajarani Temple(Bhubaneswar),0.08,50
+Odisha State Museum(Bhubaneswar),Mukteswara Temple(Bhubaneswar),0.11,55
+Odisha State Museum(Bhubaneswar),Ram mandir(Bhubaneswar),0.13,70
+Dhauli Shanti Stupa(Bhubaneswar),ISKCON Temple(Bhubaneswar),0.3,100
+Dhauli Shanti Stupa(Bhubaneswar),Rajarani Temple(Bhubaneswar),0.28,103
+Dhauli Shanti Stupa(Bhubaneswar),Mukteswara Temple(Bhubaneswar),0.25,95
+Dhauli Shanti Stupa(Bhubaneswar),Ram mandir(Bhubaneswar),0.38,150

@@ -1,0 +1,513 @@
+PLACES_ID,CITYNAME,PLACE_NAME,TAG,latitude,longitude,RATINGS,TIME(HOURS),COST
+1,Agra,Agra Station,Station,27.1590342,77.9906067,2.0,2.1,600
+2,Agra,Chausath Khamba,historic,27.2121062,77.9754843,3.5,4.2,149
+3,Agra,Tomb of Sadiq Khan,historic,27.2107306,77.9778228,2.9,3.9,146
+4,Agra,Chauburji,historic,27.1901207,78.0325617,3.3,9.4,790
+5,Agra,amar park,leisure,27.2295125,77.9115599,1.6,1.2,79
+6,Agra,alka puri colony park,leisure,27.1868141,77.9812168,2.2,7.1,452
+7,Agra,janak park,leisure,27.2130687,78.0246402,1.3,9.5,175
+8,Agra,swami vivekanand park,leisure,27.2128203,77.9946172,2.1,7.9,563
+9,Agra,agrasen Seva Sadan,leisure,27.2147355,78.0157593,3.4,4.8,575
+10,Agra,kone park two,leisure,27.2196064,78.0239107,3.9,2.4,706
+11,Agra,vimal vatika,leisure,27.2220231,78.0252268,2.8,1.2,259
+12,Agra,Saraswati garden,leisure,27.1849703,78.0021817,3.0,4.1,872
+13,Agra,Ratn muni jain inter college,leisure,27.1889515,77.9898933,3.2,6.6,370
+14,Agra,Bal Vihar,leisure,27.2069525,78.0459892,1.2,4.1,99
+15,Agra,gatte ki factory,leisure,27.2085922,78.0433102,2.9,4.9,999
+16,Agra,colony park,leisure,27.2074566,78.0447596,3.5,7.9,55
+17,Agra,colony park,leisure,27.2074566,78.0447596,4.0,2.1,393
+18,Agra,Hanuman Park,leisure,27.2052415,78.0466812,2.8,8.3,75
+19,Agra,chini roja park,leisure,27.2004609,78.0350163,4.4,5.9,642
+20,Agra,MAU FILD,leisure,27.2250569,77.9869884,4.9,7.5,305
+21,Agra,ram chndra fild,leisure,27.2250843,77.983161,2.1,2.7,84
+22,Agra,Ambedkar Park,leisure,27.1455498,78.0136093,3.9,4.3,159
+23,Agra,priymari school,leisure,27.2199305,77.9883456,2.6,1.3,75
+24,Agra,kalindripurm,leisure,27.2148142,77.9873049,1.9,8.4,135
+25,Agra,suylok colony,leisure,27.2182299,77.9899657,2.3,2.9,622
+26,Agra,market,leisure,27.2203694,77.9866075,3.9,4.8,829
+27,Agra,j.p. nagar crossing,leisure,27.2141797,77.9884153,3.2,6.4,441
+28,Agra,shop,leisure,27.2168274,77.9883241,1.8,1.2,766
+29,Agra,sector 11 park,leisure,27.202707,77.9626989,4.6,5.4,519
+30,Agra,buddha park,leisure,27.2152052,78.0671425,2.6,1.3,420
+31,Agra,Sai garden,leisure,27.2071336,77.9982519,1.1,3.4,427
+32,Agra,Jhansi Rani Laxmibhai Statue,historic,27.1635521,78.0038257,2.5,6.2,761
+33,Agra,college park,leisure,27.1937981,78.0018054,2.8,8.6,275
+34,Agra,kanhiya park,leisure,27.2132458,78.02551,1.0,5.4,336
+35,Agra,sector 11 fieldS,leisure,27.2032056,77.9696352,1.2,2.2,491
+36,Agra,Shahjahan Garden,leisure,27.1745153,78.0269785,2.6,3.4,351
+37,Agra,ambedker park,leisure,27.1814998,77.966538,3.1,7.6,31
+38,Agra,MEHEK COLONY PARK,leisure,27.2038808,77.9702588,3.6,4.6,537
+39,Agra,mittal park,leisure,27.19036,77.9609871,3.9,6.7,187
+40,Agra,tagoor nager park,leisure,27.2199636,78.0025949,5.0,1.3,700
+41,Agra,big ground,leisure,27.1743433,77.9939656,1.0,5.8,196
+42,Agra,tara chand park,leisure,27.1531295,77.9986667,2.5,4.8,610
+43,Agra,Jahangir's Palace,tourism,27.177765,78.0231386,2.8,7.0,109
+44,Agra,Taj Nature Walk,tourism,27.1702958,78.0485763,2.0,7.8,522
+45,Agra,ताज महल संग्रहालय,tourism,27.1731379,78.0406323,2.2,3.4,939
+46,Agra,Wildlife SOS Elephant & Bear Sanctuary,leisure,27.2363688,77.8829696,3.1,2.4,958
+47,Agra,Angori Bagh,tourism,27.1784181,78.0230568,4.3,8.6,425
+48,Agra,Diwan-i-Khas,tourism,27.178897,78.0233646,2.1,5.7,408
+49,Agra,Khas Mahal,tourism,27.1784677,78.0235623,1.6,7.7,944
+50,Agra,Musammun Burj,tourism,27.178808850000003,78.02363352665301,2.6,2.6,797
+51,Agra,Hathi Pol,tourism,27.1803739,78.0186461,1.6,4.1,20
+52,Agra,View Point Taj Mahl,tourism,27.1785057,78.0405625,2.9,3.5,956
+53,Agra,Akhbari Mahal,tourism,27.1769871,78.023238,4.1,9.8,464
+54,Agra,Hauz-i-Jehangir,tourism,27.1776632,78.0225118,2.9,8.3,857
+55,Agra,Sector-3 park,leisure,27.1941879,77.9619281,2.6,7.6,480
+56,Agra,Taj Mahal Mughal Garden,tourism,27.17307105,78.04211234027201,4.2,8.3,75
+57,Agra,राम बाग़,leisure or tourism,27.2054623,78.0384542914339,5.0,6.6,471
+58,Agra,Mehtab Bagh,leisure,27.1790467,78.04208331125074,2.2,3.8,286
+59,Agra,Darwaza-i-Rauza,historic,27.17163035,78.04218932685805,3.5,8.3,585
+60,Agra,Akbar's tomb and mausoleum,historic,27.22042005,77.9503982,2.7,8.6,68
+61,Agra,South Entrance,tourism,27.21746305,77.95034364048331,2.3,6.8,56
+62,Agra,Mariam's Tomb,historic,27.2153018,77.9427206,3.0,2.3,750
+63,Agra,Chini Ka Rauza,leisure,27.2008612,78.03438455,3.3,2.1,742
+64,Agra,shanti nagar park,leisure,27.22615735,78.01795390436526,2.6,2.2,433
+65,Agra,Ambedkar park tedi bgiya,leisure,27.2307703,78.04899620640097,4.3,8.5,23
+66,Agra,shri ram park,leisure,27.2100491,78.02309616535318,4.5,8.2,300
+67,Agra,subhash park,leisure,27.1806633,78.00285263127836,1.5,9.4,167
+68,Agra,Kidwai Park,leisure,27.19158415,77.99759509454191,5.0,9.7,377
+69,Agra,sadbhawana park of kamla nager,leisure,27.2153758,78.02323019297344,3.6,3.8,233
+70,Agra,bharet park of kamla nager,leisure,27.2159818,78.02234629449785,4.6,1.6,901
+71,Agra,Balkeshwar Park,leisure,27.21278885,78.02962141205717,4.1,7.4,677
+72,Agra,DR.bhimrao ambedkar park,leisure,27.18958125,77.97633196004884,3.7,1.0,61
+73,Agra,tarachand park,leisure,27.1589355,78.00155319414645,1.9,2.9,211
+74,Agra,sindu park,leisure,27.211491600000002,78.02425283766247,1.2,8.5,789
+75,Agra,kone park one,leisure,27.2200753,78.02307736412982,3.7,7.4,439
+76,Agra,Sector-01 Park,leisure,27.18962165,77.96172444946376,3.3,1.2,479
+77,Agra,Ambedkar park,leisure,27.1455498,78.0136093,3.3,3.8,207
+78,Agra,Center Park,leisure,27.1959666,77.95874697980175,4.9,7.7,680
+79,Agra,TEGOOR NAGER PARK,leisure,27.21993045,78.0025836687146,4.5,6.4,246
+80,Agra,PARK,leisure,27.22052675,78.00166864494273,3.4,2.3,737
+81,Agra,buddha park,leisure,27.2152052,78.0671425,2.0,9.8,98
+82,Agra,Shri Siddh Siddheshwar Park,leisure,27.20915095,78.05261025713529,2.8,7.2,558
+83,Agra,jain park,leisure,27.21120535,78.02039018146519,2.0,4.3,212
+84,Agra,bawana garden,leisure,27.2105027,77.984807675,1.4,2.1,434
+85,Agra,park of kalindripuram,leisure,27.2158722,77.98730653433535,1.7,7.9,347
+86,Agra,BSNL Ground Targhar,leisure,27.1629631,78.01562992335006,2.9,9.2,985
+87,Agra,Shaheed smark,leisure,27.198441449999997,78.00480740099309,4.2,8.3,61
+88,Agra,Avaas Viksh Colony Sector 11 Park,leisure,27.202758799999998,77.96266116941057,3.9,10.0,287
+89,Agra,Zenith park,leisure,27.2032521,77.96463280789916,4.6,9.1,288
+90,Agra,dhup ghdi udhan,leisure,27.1868301,78.0027561014237,2.0,9.7,71
+91,Agra,Dr.sarvepalli radhakrishnan garden,leisure,27.1857934,78.0024879,1.1,8.2,263
+92,Agra,gangadhar shastri ground,leisure,27.1868921,78.00169260000001,3.3,6.3,941
+93,Agra,Police line ground,leisure,27.17577825,77.99705074204428,1.3,5.7,344
+94,Agra,nehru nagar park,leisure,27.207980550000002,78.00759615384004,3.2,9.9,583
+95,Agra,KD Paliwal park,leisure,27.20139415,78.01405230273016,1.1,9.2,173
+96,Agra,PM SECTOR YOJANA PARK,leisure,27.203472599999998,77.96014787591211,3.2,8.9,794
+97,Agra,kalpna chavla udhan,leisure,27.18503385,78.00197276875,4.2,8.6,454
+98,Agra,green park,leisure,27.209420549999997,78.02504824070971,2.3,3.4,250
+99,Agra,Prateek Enclave Park,leisure,27.2246722,78.02054654631837,2.0,8.9,659
+100,Agra,B.R.Ambedkar park,leisure,27.1908422,77.97764395806817,4.0,4.6,347
+101,Agra,Gau shala,leisure,27.21036435,78.04042223533168,1.4,3.1,140
+102,Agra,Agra Fort,historic,27.1798258,78.02082227320588,4.6,7.6,902
+103,Agra,Double store park,leisure,27.1889537,77.98086163153874,3.4,1.2,650
+104,Agra,Open Fields,leisure,27.15885115,78.04342320368349,1.3,5.3,880
+105,Agra,Babu Jagjeevan ram chowk,leisure,27.1626987,78.03627564524643,4.8,8.6,596
+106,Agra,Lakshman Nagar Park,leisure,27.16798435,77.98343194097387,3.2,9.4,50
+107,Agra,Shaheed Park,leisure,27.1657677,77.98091025556315,3.8,7.4,789
+108,Agra,PARK,leisure,27.22052675,78.00166864494273,4.2,2.0,977
+109,Agra,G G puram Park,leisure,27.225096999999998,78.02076195179062,3.3,5.1,719
+110,Agra,Taj Mahal,tourism,27.1750075,78.04210126365584,3.6,8.4,914
+111,Agra,एतमाद-उद-दौला का मक़बरा,historic or tourism,27.192868249999997,78.03099451773602,3.0,2.8,899
+112,Agra,Ambedkar Park,leisure,27.1455498,78.0136093,1.1,2.1,283
+113,Agra,Radha Bagh,leisure,27.237970400000002,78.01657212589076,2.2,9.0,903
+114,Agra,Diwan-i-Aam,tourism,27.17897815,78.02254035699585,5.0,5.8,21
+115,Agra,Sheesh Mahal,tourism,27.178759550000002,78.02313395143054,4.9,3.4,962
+116,Agra,Anguri Bagh,leisure,27.17843165,78.02306778096775,4.5,9.1,23
+117,Agra,TAJ NAGRI PHASE 2 ZONAL PARK,leisure,27.14756905,78.05636316991935,4.4,3.2,340
+118,Agra,Taj Nagri Phase 2 Zonal Park,leisure,27.14756905,78.05636316991935,2.7,6.0,135
+119,Agra,Dr. Bhimrao Ambedkar Park,leisure,27.18958125,77.97633196004884,1.2,8.4,894
+120,Agra,Ram Leela Park,leisure,27.186083699999998,77.98652148204246,2.6,1.7,437
+121,Agra,Alok Nagar Park,leisure,27.1855423,77.98165954666354,1.9,1.1,349
+122,Agra,Transformer Park,leisure,27.14728635,78.04227069211126,4.9,9.5,17
+123,Agra,Park With Side Walks,leisure,27.146605,78.04309210653234,2.0,9.7,562
+124,Agra,Rahul Vihar Park,leisure,27.14585325,78.04249672877518,4.1,5.3,65
+125,Agra,Sai Baba Park,leisure,27.14840165,78.04199538013752,3.9,3.5,677
+126,Agra,Dayalbag ground,leisure,27.2269013,78.01325993256604,2.7,4.2,661
+127,Agra,Ram Puri Colony Park,leisure,27.177539,77.9722483931786,2.6,9.4,714
+128,Agra,Amal Garden,leisure,27.2066225,77.94521645991247,4.8,4.2,417
+129,Jaipur,Jaipur Station,Station,26.9207888,75.7866539,2.6,8.6,988
+130,Jaipur,"जंतर मंतर, जयपुर",tourism,26.9247389,75.8244663,2.8,5.5,982
+131,Jaipur,Hawa Mahal,historic or tourism,26.923932,75.8268652,3.9,6.7,909
+132,Jaipur,Jaighar Fort,historic or tourism,26.9846903,75.8453997,4.5,2.7,601
+133,Jaipur,गुलाबी नगरी (पिंक सिटी),tourism,26.9232015,75.8243929,1.0,9.4,846
+134,Jaipur,एल्बर्ट हॉल,tourism,26.9117053,75.8194973,2.1,8.5,334
+135,Jaipur,Moti Park,leisure,26.8875343,75.8109605,3.4,4.1,947
+136,Jaipur,Savitri Park,leisure,26.8880625,75.8091472,3.3,8.9,939
+137,Jaipur,Iswari Minar Swarga Sali,tourism,26.9244425,75.8208167,4.1,6.6,853
+138,Jaipur,Ninder Hill Point View,tourism,27.0125158,75.7489287,3.9,5.1,714
+139,Jaipur,India gate,historic,26.7854254,75.8226628,1.7,8.8,801
+140,Jaipur,Elefantastic,tourism,26.9874584,75.9006841,3.1,3.0,475
+141,Jaipur,Elefantastic,tourism,26.9874584,75.9006841,2.5,5.2,395
+142,Jaipur,Jaipur Zoo,leisure,26.9126972,75.8209769,3.1,1.4,771
+143,Jaipur,Tilak Market Park,leisure,26.8914085,75.8240665,4.1,1.5,158
+144,Jaipur,Jaipur Wax Museum,tourism,26.9391114,75.8163025,4.5,5.8,998
+145,Jaipur,Sheesh Mahal,historic,26.9854678,75.8500935,2.6,4.5,368
+146,Jaipur,Suraj Pol,tourism,26.9867318,75.8513521,4.6,3.3,116
+147,Jaipur,Chand Pol,tourism,26.987223,75.8508634,1.1,3.7,95
+148,Jaipur,Diwan-i-Aam,tourism,26.9862904,75.8509196,2.2,3.4,42
+149,Jaipur,Alice Garg Seashell Museum,tourism,26.8443983,75.8072115,1.6,6.0,812
+150,Jaipur,Elephant village,tourism,26.9867146,75.8661354,4.2,9.4,494
+151,Jaipur,Paanch Batti,historic,26.9162485,75.8098572,3.2,5.2,623
+152,Jaipur,Open Air Theater,leisure,26.9347083,75.923808,1.0,7.6,238
+153,Jaipur,Lake Palace Viewpoint,tourism,26.955606,75.8432142,3.5,8.2,43
+154,Jaipur,Ganpati Nagar Ground,leisure,26.9154928,75.7889389,1.1,5.1,653
+155,Jaipur,Amber Fort,tourism,26.9863104,75.8506607,5.0,8.1,117
+156,Jaipur,Neota Dam,tourism,26.8039663,75.6811564,1.1,8.3,709
+157,Jaipur,Kishan Bagh JDA,leisure,26.9595013,75.7960104,2.6,7.6,869
+158,Jaipur,Nahargarh Biological Park,tourism,27.0141294,75.8745784,1.6,8.1,483
+159,Jaipur,Lotus Villa Small Park,leisure,26.806226,75.86926167827028,1.6,4.3,103
+160,Jaipur,Khaddewala Park,leisure,26.9498733,75.7973556,2.9,1.5,147
+161,Jaipur,sector 14 public park,leisure,26.8408251,75.8875794,2.5,4.8,978
+162,Jaipur,Surya marraige garden,leisure,26.8383336,75.8742299,4.4,2.4,427
+163,Jaipur,KanchanJunga Apartments Park,leisure,26.845668,75.8915489,4.6,5.7,866
+164,Jaipur,Amer Palace,tourism,26.9859367,75.8537139,2.5,3.4,908
+165,Jaipur,Amrapali Museum,tourism,26.9150126,75.8019066,4.4,1.1,650
+166,Jaipur,Arya College Park,leisure,27.0312125,75.894472,3.0,10.0,502
+167,Jaipur,Ground,leisure,26.9053526,75.18562034397331,2.7,1.7,988
+168,Jaipur,Diwan-i-Khas,tourism,26.985793,75.8506391,2.6,5.7,106
+169,Jaipur,Chhoti roundabout view,tourism,26.9242036,75.8186173,4.1,2.2,275
+170,Jaipur,amrapali museum,tourism,26.9150126,75.8019066,4.1,8.5,199
+171,Jaipur,Rupal park,leisure,26.8287677,75.8484394,1.5,5.4,776
+172,Jaipur,Farm land,leisure,26.9134489,75.8110688,2.3,2.4,668
+173,Jaipur,Turban museum,tourism,26.9321605,75.8313232,3.1,9.7,666
+174,Jaipur,MAA KARNI MARRIAGE GARDEN,leisure,26.9525084,75.7011339,1.9,9.8,828
+175,Jaipur,childern`s park,leisure,26.9742529,75.7644403,4.2,8.6,713
+176,Jaipur,golden park,leisure,26.9641417,75.7846384,3.0,6.8,676
+177,Jaipur,Nahargarh Sunrise Viewpoint,tourism,26.9681662,75.8351237,3.0,6.3,668
+178,Jaipur,Kalaneri Art Gallery,tourism,26.8693907,75.80815455484367,5.0,6.1,294
+179,Jaipur,gate,leisure,26.8813523,75.7812358,4.1,5.8,816
+180,Jaipur,jewels gallery,tourism,26.9226505,75.8277839,1.0,2.8,100
+181,Jaipur,R.S. Paradise,leisure,26.9517214,75.7036763,1.1,7.3,954
+182,Jaipur,Subash Nagar Park,leisure,26.9371501,75.79744805613524,4.3,4.0,478
+183,Jaipur,Deer Park,leisure,26.90478165,75.79794538169273,3.4,6.7,945
+184,Jaipur,Nehru Park,leisure,26.9056639,75.79940594411764,4.6,9.8,735
+185,Jaipur,Government Secretariat Park,leisure,26.9036483,75.80283871218774,2.4,5.3,141
+186,Jaipur,Jal Mahal,historic or tourism,26.95346715,75.84613090048799,2.8,3.3,248
+187,Jaipur,Dil-Aram Bagh,leisure,26.986908300000003,75.85370484454401,3.1,2.1,303
+188,Jaipur,Delram Bagh,leisure,26.986274,75.85331099998666,3.6,2.5,579
+189,Jaipur,Mubarak Mahal,tourism,26.925728,75.82363190616246,4.8,1.1,561
+190,Jaipur,Aram Bagh,leisure,26.985913949999997,75.85033974999999,1.8,2.1,311
+191,Jaipur,Kesar Kyari,leisure,26.984931500000002,75.85250400786867,4.5,2.6,694
+192,Jaipur,parking area,leisure,26.9237833,75.8012971,2.3,1.6,237
+193,Jaipur,Albert Hall Museum,tourism,26.91169265,75.81950236387307,2.8,7.8,637
+194,Jaipur,Ambedker Circle,leisure,26.8984206,75.80085232034796,3.0,7.7,883
+195,Jaipur,Madho Singh Circle,leisure,26.930628300000002,75.7935778984124,1.3,7.6,875
+196,Jaipur,Collectorate Circle Park,leisure,26.92606105,75.79286913894902,2.2,8.7,687
+197,Jaipur,Nagar Nigam Park,leisure,26.93833325,75.8469306290595,3.3,3.1,363
+198,Jaipur,Royal Gaitor,historic,26.9429814,75.82464863349057,4.7,4.6,597
+199,Jaipur,Ram Niwas Public Gardens,leisure,26.91311555,75.81991885812171,2.3,2.5,961
+200,Jaipur,Kanak Vrindawan Park,leisure,26.96353105,75.84853355000001,2.3,5.9,575
+201,Jaipur,Kanak Ghathi Park,leisure,26.9651408,75.8483374796431,3.0,6.7,565
+202,Jaipur,Jawahar Circe,leisure,26.8397772,75.80091525025928,1.2,2.0,456
+203,Jaipur,Adarsh Nagar Park,leisure,26.90134295,75.82872185,3.6,7.2,473
+204,Jaipur,Pondrik Park,leisure,26.93465645,75.82576820647591,2.2,5.8,627
+205,Jaipur,Parshuram Park,leisure,26.944976,75.80006923968483,4.1,2.4,173
+206,Jaipur,Ajay Park,leisure,26.9638995,75.78535186799176,2.4,3.4,841
+207,Jaipur,Narayan Park,leisure,26.95353095,75.7747204384412,2.0,9.0,792
+208,Jaipur,Public Park,leisure,26.928773149999998,75.84526690545962,2.0,6.3,188
+209,Jaipur,Jyoti Nagar Park,leisure,26.893667450000002,75.79459322216852,4.9,3.5,326
+210,Jaipur,Stepwell Panna Meena,historic,26.991207600000003,75.851227,3.5,1.1,547
+211,Jaipur,Central Park,leisure,26.90438905,75.80993055923639,2.1,2.7,899
+212,Jaipur,City Palace,historic or tourism,26.926209649999997,75.82383458642204,2.9,9.2,416
+213,Jaipur,Diwan-i-Khas,historic,26.985793,75.8506391,4.9,5.3,19
+214,Jaipur,Kanwar Kanan Park,leisure,26.93299565,75.78897545000001,4.4,6.9,141
+215,Jaipur,Smriti Park,leisure,26.97149545,75.77491261534759,2.4,4.8,686
+216,Jaipur,BR Ambedkar Park,leisure,26.9785217,75.76949721370542,4.8,4.2,34
+217,Jaipur,Neel Padam Sarovar Park,leisure,26.9094584,75.73919472698444,1.0,5.2,99
+218,Jaipur,geejgarj park,leisure,26.9009893,75.78446111270527,3.0,5.9,902
+219,Jaipur,Indoor park,leisure,26.930022,75.79243497647965,1.0,9.6,920
+220,Jaipur,Colony Park,leisure,26.9346928,75.82383188122283,2.2,9.2,924
+221,Jaipur,Agarsen park,leisure,26.96548875,75.78428708422837,1.2,6.3,284
+222,Jaipur,Park U,leisure,26.80519155,75.80954651760077,2.4,8.7,140
+223,Jaipur,Samudaik Bhawan,leisure,26.804741800000002,75.80975163941142,2.8,4.3,539
+224,Jaipur,Haldighati Park,leisure,26.804646599999998,75.81088021960045,1.2,6.8,849
+225,Jaipur,Chulgiri Digamber Jain Temple,historic,26.89076635,75.86075050347759,1.8,8.9,357
+226,Jaipur,sri ram colony park,leisure,26.92313945,75.80419194296374,3.6,7.2,550
+227,Jaipur,dwarkadas park,leisure,26.84055445,75.77566648997924,4.3,9.2,579
+228,Jaipur,Rose Garden Ground,leisure,26.85882365,75.76841304028585,3.6,1.4,654
+229,Jaipur,Sector 72 Park,leisure,26.85552355,75.77090771289036,3.1,4.2,249
+230,Jaipur,Sector 151 Park,leisure,26.85656075,75.77396234626082,2.5,4.6,297
+231,Jaipur,Sector 153 Park,leisure,26.8545655,75.77483782121628,1.7,8.0,940
+232,Jaipur,Sector 150 Park,leisure,26.8578972,75.77365662546505,4.8,8.1,245
+233,Jaipur,Sector 71 Park,leisure,26.85820075,75.77266961564855,4.5,1.6,860
+234,Jaipur,Central Park,leisure,26.90438905,75.80993055923639,4.0,1.9,825
+235,Jaipur,Sector 7 Public Park,leisure,26.858058550000003,75.77069756134618,4.3,1.7,469
+236,Jaipur,Children Park,leisure,26.8559375,75.76805635403505,3.5,8.1,891
+237,Jaipur,Krishna Vihar Park,leisure,26.8559404,75.76904075,1.3,2.6,918
+238,Jaipur,Children Park,leisure,26.8559375,75.76805635403505,3.3,1.7,167
+239,Jaipur,Joggers Park,leisure,26.8548611,75.76931926444615,4.9,4.7,388
+240,Jaipur,Children Park,leisure,26.8559375,75.76805635403505,1.7,7.9,294
+241,Jaipur,Kid Park,leisure,26.85521765,75.76960576304347,4.3,2.2,750
+242,Jaipur,Tagore Park,leisure,26.80389925,75.82524476154663,3.0,9.4,314
+243,Jaipur,Radhe Krishna Temple Park,leisure,26.85954445,75.7723981280644,3.6,6.0,858
+244,Jaipur,Jaipur City Park,leisure,26.861367,75.76983441515345,3.6,6.0,306
+245,Jaipur,Children Park,leisure,26.8559375,75.76805635403505,1.9,9.6,661
+246,Jaipur,Sapteshwar Park,leisure,26.86114735,75.77118025228437,4.0,8.3,349
+247,Jaipur,Surya Paramal Udhan,leisure,26.851995600000002,75.7720922914215,1.2,8.2,517
+248,Jaipur,Main Patel Marg Park,leisure,26.85342035,75.76768463284697,3.0,3.2,648
+249,Jaipur,Chinmay Park,leisure,26.8522937,75.7698055990044,1.9,5.0,126
+250,Jaipur,Children Park,leisure,26.8559375,75.76805635403505,1.2,3.6,190
+251,Jaipur,Chawla Garden,leisure,26.853150149999998,75.7738610601442,3.6,6.6,591
+252,Jaipur,Sector 9 Community Center,leisure,26.85084235,75.77027345,4.6,5.5,875
+253,Jaipur,Children Park,leisure,26.8559375,75.76805635403505,4.2,2.5,288
+254,Jaipur,Sector 83 Park,leisure,26.8551711,75.76328156598353,5.0,4.3,551
+255,Jaipur,L Park,leisure,26.85377475,75.76469876174423,2.7,8.0,925
+256,Jaipur,Kid Park,leisure,26.85521765,75.76960576304347,3.0,3.1,796
+257,Varanasi,Varanasi Station,Station,25.32742115,82.98613272876392,3.0,6.7,388
+258,Varanasi,Hanuman Ghat,tourism,25.2972001,83.0073734,3.1,3.2,130
+259,Varanasi,Ahilyabai Ghat,tourism,25.3057223,83.0099782,3.1,7.7,756
+260,Varanasi,Raja Ghat,tourism,25.30225,83.0076942,3.5,2.8,24
+261,Varanasi,Ranamahal Ghat,tourism,25.3048094,83.0090711,4.1,2.9,267
+262,Varanasi,Shivala Ghat,tourism,25.2964656,83.0071513,3.7,1.5,548
+263,Varanasi,Manasarowa Ghat,tourism,25.3015103,83.0074949,3.8,6.6,755
+264,Varanasi,Manmandir Ghat,tourism,25.3076571,83.0109847,2.2,7.6,18
+265,Varanasi,Kedar Ghat,tourism,25.2990503,83.0072819,3.3,7.6,748
+266,Varanasi,Badhaini Ghat,tourism,25.2915331,83.0066896,3.0,1.7,769
+267,Varanasi,Ganga Mahal Ghat,tourism,25.2896862,83.0062583,3.5,3.7,248
+268,Varanasi,Lali Ghat,tourism,25.2986004,83.0071507,4.1,5.3,286
+269,Varanasi,Babua Pandey Ghat,tourism,25.3031486,83.0081833,4.4,4.2,212
+270,Varanasi,Munshi Ghat,tourism,25.3054507,83.0097583,4.9,9.0,143
+271,Varanasi,Karnataka Ghat,tourism,25.2977445,83.0072745,2.3,4.5,316
+272,Varanasi,Narad Ghat,tourism,25.3017722,83.0075307,1.7,4.2,88
+273,Varanasi,Chousatti Ghat,tourism,25.3043415,83.0088352,4.4,5.9,952
+274,Varanasi,Ganesh Ghat,tourism,25.3132123,83.0162245,1.8,4.6,542
+275,Varanasi,Dr. Rajendra Prasad Ghat,tourism,25.3071569,83.0106859,4.9,8.5,606
+276,Varanasi,Tulsi Ghat,tourism,25.29024,83.0063426,2.8,9.0,653
+277,Varanasi,Sankatha Ghat,tourism,25.3123497,83.0156683,4.0,4.9,152
+278,Varanasi,Zoo Ticket Office,tourism,25.3813264,83.0266699,3.1,2.2,227
+279,Varanasi,Ramnagar Fort,tourism,25.26970655,83.02449596161061,3.4,1.9,209
+280,Varanasi,Kriti Gallery,tourism,25.30463,82.980014,4.2,2.1,506
+281,Varanasi,Anandamayee Ghat,tourism,25.2924932,83.0068183,4.7,3.4,663
+282,Varanasi,Chauki Ghat,tourism,25.3004934,83.0074175,4.7,5.5,98
+283,Varanasi,Darbhanga Ghat,tourism,25.3052209,83.00954,1.2,6.4,797
+284,Varanasi,Gaay Ghat,tourism,25.318352,83.0221361,1.6,2.9,888
+285,Varanasi,Harishchandra Ghat,tourism,25.2983149,83.0071904,1.7,9.9,654
+286,Varanasi,Jatar Ghat,tourism,25.314458,83.0168694,2.6,9.8,253
+287,Varanasi,Lal Ghat,tourism,25.3172323,83.0205948,2.1,1.1,336
+288,Varanasi,Lalita Ghat,tourism,25.3100257,83.0134216,2.8,2.6,229
+289,Varanasi,Mahanirvani Ghat,tourism,25.2960763,83.0069086,3.9,6.4,518
+290,Varanasi,Manikarnika Ghat,tourism,25.3107682,83.014021,4.1,6.0,11
+291,Varanasi,Mehfa Ghat,tourism,25.3136844,83.0165616,4.7,1.7,566
+292,Varanasi,Nandeshwar Ghat,tourism,25.3198932,83.0246607,2.1,2.5,315
+293,Varanasi,Niranjani Ghat,tourism,25.295569,83.0070612,4.1,6.8,689
+294,Varanasi,Naya Ghat,tourism,25.3220123,83.0284985,4.9,4.8,689
+295,Varanasi,Panchganga Ghat,tourism,25.315019,83.0179849,4.1,3.5,649
+296,Varanasi,Panchkot Ghat,tourism,25.2938732,83.0071836,3.4,3.2,739
+297,Varanasi,Prayag Ghat,tourism,25.3065683,83.0102699,4.6,2.5,899
+298,Varanasi,Raj Ghat,tourism,25.3234066,83.0310405,2.3,9.3,246
+299,Varanasi,Gwaljor Ghat,tourism,25.3145937,83.0170255,2.4,8.6,292
+300,Varanasi,Ram Ghat,tourism,25.3141205,83.0167057,4.2,8.4,114
+301,Varanasi,Prahlad Ghat,tourism,25.3224031,83.0290449,3.9,2.7,660
+302,Varanasi,Reewa Ghat,tourism,25.2899023,83.0062958,1.4,8.2,750
+303,Varanasi,Sakka Ghat,tourism,25.3207522,83.0259173,2.5,9.7,646
+304,Varanasi,Scindia Ghat,tourism,25.3120646,83.0154329,3.0,4.3,15
+305,Varanasi,Trilochan Ghat,tourism,25.3189725,83.0234368,3.8,1.4,423
+306,Varanasi,Vijayana Ghat,tourism,25.2988294,83.0072243,4.4,8.1,351
+307,Varanasi,Digipatiya Ghat,tourism,25.303696,83.0083278,2.2,8.7,794
+308,Varanasi,Jalasayi Ghat,tourism,25.3105516,83.0136803,1.8,6.4,496
+309,Varanasi,Kschemeschwar Ghat,tourism,25.3009846,83.0074205,3.6,6.7,234
+310,Varanasi,Prabhu Ghat,tourism,25.294807,83.0073101,2.9,4.8,790
+311,Varanasi,Aghoreshwar Bhagwam Ram Ghat,tourism,25.2757315,83.0131538,4.2,5.4,335
+312,Varanasi,Adi Keshava Ghat,tourism,25.3290192,83.0428908,4.1,9.3,312
+313,Varanasi,Shitala Ghat,tourism,25.3165899,83.020252,3.4,3.3,585
+314,Varanasi,Badrinarayan Ghat,tourism,25.3187303,83.0228183,3.0,8.4,989
+315,Varanasi,Gola Ghat,tourism,25.3194596,83.0240242,3.5,8.4,822
+316,Varanasi,Hanumangadhi Ghat,tourism,25.3176767,83.0214261,2.5,8.4,944
+317,Varanasi,Ravidas Ghat,tourism,25.2835977,83.00902,2.4,1.5,318
+318,Varanasi,Telianala Ghat,tourism,25.3211398,83.0267868,3.5,1.8,86
+319,Varanasi,Bhonsale Ghat,tourism,25.3128231,83.015988,3.0,1.2,64
+320,Varanasi,Man Singh Astronomical Observatory,tourism,25.30795385,83.01089406986995,4.2,5.8,201
+321,Varanasi,janki ghat,tourism,25.2920826,83.0068491,5.0,8.7,604
+322,Varanasi,Shivala Ghat,tourism,25.2964656,83.0071513,4.1,1.5,96
+323,Varanasi,Jain Ghat,tourism,25.2930166,83.0070247,1.8,3.1,978
+324,Varanasi,Kiran Center,tourism,25.2163845,82.9570694,1.8,1.8,43
+325,Varanasi,मंगलेश्वर महादेव,tourism,25.4000147,82.8838978,1.2,5.2,508
+326,Varanasi,Varanasi Airport,tourism,25.4509975,82.86360523595738,1.0,9.4,472
+327,Varanasi,Mandakini Meditation Center,tourism,25.2637784,83.0185994,2.8,5.5,684
+328,Varanasi,Ganga Aarti,tourism,25.3068628,83.0105846,1.2,1.5,851
+329,Varanasi,Dasaswamedh Ghat,tourism,25.3062478,83.0101527,2.0,8.3,508
+330,Varanasi,Ramnagar fort,tourism,25.26970655,83.02449596161061,1.3,7.8,227
+331,Varanasi,Lolark Kund,tourism,25.2910137,83.0058012,1.0,2.2,977
+332,Varanasi,Chet Singh Ghat,tourism,25.2952211,83.0071242,1.9,9.2,350
+333,Varanasi,Ganga Mahal Ghat,tourism,25.2896862,83.0062583,2.8,8.0,90
+334,Varanasi,Dashashvamedh Ghat,tourism,25.3069301,83.010654,2.2,8.8,76
+335,Varanasi,botanical garden,leisure,25.2636369,82.9914526,4.8,3.6,401
+336,Varanasi,Gandhinagar Park,leisure,25.2811101,82.9909927,4.8,5.7,166
+337,Varanasi,STUDENT INITIATED ART WORKS,tourism,25.2656947,82.9889455,4.4,6.7,777
+338,Varanasi,GREEN HOUSE,leisure,25.2650732,82.9903034,3.8,7.2,583
+339,Varanasi,DEF,leisure,25.2536983,82.9921629,2.1,9.6,326
+340,Varanasi,SATISH DHAWAN  GARDEN,leisure,25.2641341,82.9849393,3.7,5.2,175
+341,Varanasi,GHJG,leisure,25.2551077,82.9896168,3.3,1.8,519
+342,Varanasi,BHATTA B BLOCK GARDEN,leisure,25.2644491,82.9841554,2.0,7.2,708
+343,Varanasi,FDUU,leisure,25.2637209,82.9833819,4.7,4.8,302
+344,Varanasi,NCC GROUND,leisure,25.26150965,82.99019572266579,3.9,8.8,634
+345,Varanasi,GARD EC,leisure,25.2629127,82.990326,2.5,5.6,736
+346,Varanasi,BOTO GARD,leisure,25.2626603,82.9911739,2.8,8.4,535
+347,Varanasi,BOTONICAL GARD,leisure,25.2636615,82.9916052,5.0,7.7,580
+348,Varanasi,BOTO GARD CORNER,leisure,25.2626934,82.9910872,3.3,1.0,850
+349,Varanasi,G14 GARDEN,leisure,25.261834,82.9906894,1.8,6.0,929
+350,Varanasi,JKL,leisure,25.2535663,82.9927293,1.2,8.7,583
+351,Varanasi,LOTUS SHOP,leisure,25.2625984,82.9900096,3.0,5.5,977
+352,Varanasi,NEW PARK,leisure,25.2541518,82.9953122,2.6,6.2,896
+353,Varanasi,GHI,leisure,25.2535935,82.992386,3.7,5.1,337
+354,Varanasi,PARK BESIDE G13,leisure,25.2604375,82.9917254,4.1,3.8,983
+355,Varanasi,BOTONICAL GARDEN,leisure,25.2549103,82.9907034,3.4,8.7,212
+356,Varanasi,MNO,leisure,25.2536866,82.9918753,1.1,8.3,832
+357,Varanasi,CHRISTMAS TREE,leisure,25.2583789,82.9896684,1.8,6.7,793
+358,Varanasi,MORVI HOATEL PARKING,leisure,25.2650381,82.9863874,5.0,1.3,57
+359,Varanasi,VISHWASARAIYA PARK,leisure,25.2631767,82.9836564,2.4,2.0,585
+360,Varanasi,tree,leisure,25.2641347,82.9862641,1.4,4.5,313
+361,Varanasi,GTAC PARK,leisure,25.2600265,82.9850795,3.0,2.4,942
+362,Varanasi,MORVI HOSTEL GARDEN,leisure,25.2651934,82.985909,1.6,7.3,635
+363,Varanasi,VT PARK,leisure,25.2661328,82.9884062,4.7,9.8,147
+364,Varanasi,SN BOSE,leisure,25.2634465,82.9840668,2.4,7.0,475
+365,Varanasi,VT FRONT GARDEN,leisure,25.2656771,82.9886316,3.3,1.1,575
+366,Varanasi,NEW G HOSTEL B BLOCK,leisure,25.2612856,82.9842542,3.4,1.1,182
+367,Varanasi,CUDSICDNCI,leisure,25.2635735,82.9833054,2.9,5.1,832
+368,Varanasi,BHAATA C BLOCK  GARDEN,leisure,25.2647485,82.9842281,3.2,6.2,90
+369,Varanasi,CV RAMAN HOSTEL GARDEN,leisure,25.2660402,82.9860603,4.6,7.9,778
+370,Varanasi,GMCHA A BLOCK GARDEN,leisure,25.2604317,82.9842843,4.2,3.6,365
+371,Varanasi,GMCHA B BLOCK GARDEAN,leisure,25.2605385,82.9846061,4.7,7.8,492
+372,Varanasi,VISHWA CENTRE PARK,leisure,25.2622986,82.9839538,4.3,1.7,443
+373,Varanasi,NEW VISHW PARK,leisure,25.2624189,82.9844688,3.4,4.9,757
+374,Varanasi,NEW GIRLS HOSTEL PARK,leisure,25.2610469,82.9838272,3.0,8.9,491
+375,Varanasi,OLD GMCHA PARK,leisure,25.2607092,82.9841426,1.0,4.1,670
+376,Varanasi,IIT GUEST HOUSE PARK,leisure,25.2595311,82.9849198,3.3,9.4,725
+377,Varanasi,tree,leisure,25.2641347,82.9862641,3.7,6.5,310
+378,Varanasi,t,leisure,25.2649241,82.9877074,3.8,6.8,715
+379,Varanasi,tree,leisure,25.2641347,82.9862641,3.5,1.9,582
+380,Varanasi,tree,leisure,25.2641347,82.9862641,1.6,6.9,934
+381,Varanasi,Bindu Madhav Ghat,tourism,25.3157585,83.0189562,2.1,1.9,106
+382,Varanasi,Namo Ghat,tourism,25.3250742,83.0352029,2.6,3.4,514
+383,Varanasi,Gularia Ghat,tourism,25.2969728,83.0073238,4.1,6.7,599
+384,Varanasi,Bundiparkota Ghat,tourism,25.3161972,83.0196903,3.6,6.8,160
+385,Goa,Goa Station,Station,15.264771,74.0476361,2.3,1.9,696
+386,Goa,Panjim city view point,tourism,15.4900856,73.828682,4.2,6.9,15
+387,Goa,Colva Beach,natural,15.285009500000001,73.91086809145179,2.8,6.4,107
+388,Goa,Arossim Beach,natural,15.3351328,73.8929125,3.2,9.0,526
+389,Goa,Dudhsagar Falls,tourism,15.3135273,74.3142439,1.1,4.9,290
+390,Goa,Miramar beach,tourism,15.4788502,73.80681736643858,4.7,3.7,252
+391,Goa,Hanuman temple,historic,15.4897333,73.8284959,1.8,2.4,752
+392,Goa,Villa Braganca,tourism,15.2615042,74.0434041,4.3,6.2,316
+393,Goa,Laxmi's Home,tourism,15.5135064,73.7656839,3.4,9.2,967
+394,Goa,Sunset Point,tourism,15.6501197,73.7157834,3.0,9.4,616
+395,Goa,Dudhsagar Old Station,tourism,15.3201271,74.3031452,4.0,9.5,254
+396,Goa,Banian Tree,tourism,15.70205,73.700887,3.0,2.1,244
+397,Goa,Fernandes Heritage Home,tourism,15.2556738,74.0518532,1.2,8.9,361
+398,Goa,Treetop,tourism,14.9671672,74.1583819,4.6,2.8,184
+399,Goa,Bela Lake,tourism,14.9537077,74.1523166,2.8,8.6,998
+400,Goa,Cansaulim Beach,natural,15.35483515,73.88393054438464,2.1,4.6,550
+401,Goa,Utorda Beach,natural,15.3196353,73.898934,3.3,8.0,357
+402,Goa,Fatrade Beach,natural,15.2079045,73.9326021,1.4,8.6,299
+403,Goa,Varca Beach,natural,15.2321443,73.9259238,1.7,10.0,909
+404,Goa,Betalbatim Beach,natural,15.2931923,73.9077452,2.8,1.2,547
+405,Goa,Zalor Beach,natural,15.2006619,73.9345138,1.6,4.0,489
+406,Goa,Savoi Plantation,tourism,15.4932054,74.0006761,1.9,6.4,820
+407,Goa,Cabo de Rama,historic,15.0886314,73.9216425,1.6,1.9,79
+408,Goa,Ponso,tourism,15.4422791,73.9186701,1.2,7.1,241
+409,Goa,Arambol Beach Mountain,tourism,15.6928174,73.6988541,3.8,7.4,918
+410,Goa,Arambol Beach Mountain,tourism,15.6928174,73.6988541,3.5,6.7,173
+411,Goa,Sunset Beach,natural,15.3010263,73.9050309,4.6,2.8,609
+412,Goa,Udear Springs,tourism,15.3479781,73.9464745,4.8,5.1,443
+413,Goa,Harvalem Waterfall,tourism,15.5508919,74.0265375,4.0,7.4,1000
+414,Goa,Palacio Do Deao,historic,15.2138797,74.0734833,4.6,1.2,986
+415,Goa,Go-Kart Racing,tourism,15.3295532,73.9395439,1.7,4.4,71
+416,Goa,Nagesh Gardens,tourism,15.242618,74.03319,4.5,3.3,452
+417,Goa,Snow Park,tourism,15.557472,73.7553,2.2,9.8,621
+418,Goa,Abyss Marine Fish Aquarium,tourism,15.3741003,73.9259669,1.0,3.7,580
+419,Goa,Monte Hill Viewpoint,tourism,15.2798058,73.9625311,2.4,5.9,120
+420,Goa,Goa Chitra museum,tourism,15.264701,73.94161,2.2,5.6,172
+421,Goa,Ashvek Vintage world- Car Museum,tourism,15.3208441,73.9416552,1.4,4.5,762
+422,Goa,Techspots,tourism,15.2831,73.9765,1.9,6.1,496
+423,Goa,Big Foot Cross Museum,tourism,15.339523,73.9876,2.3,3.3,369
+424,Goa,Ancestral Goa,tourism,15.339748,73.98668,3.9,5.9,479
+425,Goa,Dive Goa,tourism,15.5015663,73.7717822,4.9,7.3,81
+426,Goa,Shri Shantadurga Chamundeshwari Kudtari Mahamaya Temple,tourism,15.228571,74.05411,2.1,2.8,885
+427,Goa,Casa Araujo Alvares,tourism,15.3393445,73.9863871,3.9,3.1,111
+428,Goa,Harvalem Caves,tourism,15.5525614,74.0230363,3.7,4.4,983
+429,Goa,Wax World Museum,tourism,15.5002291,73.9138113,4.1,9.8,614
+430,Goa,River Cruises,tourism,15.499535,73.836147,2.8,6.5,50
+431,Goa,Paradise Cruises,tourism,15.499623,73.836461,2.8,1.0,342
+432,Goa,Furtado House,tourism,15.587468,73.76036,4.2,6.1,860
+433,Goa,House of Goa,tourism,15.530313,73.840679,1.6,7.0,420
+434,Goa,Indian Customs & Central Excise Museum,tourism,15.501018,73.82824,1.9,7.4,526
+435,Goa,Kamal's Art Museum Home,tourism,15.580181,73.75443,3.6,8.7,564
+436,Goa,Museum of Goa,tourism,15.5256419,73.7953062,3.2,9.5,373
+437,Goa,DSouza Mansion,tourism,15.248037,73.950905,4.1,9.9,772
+438,Goa,Bamanbudo Waterfall,tourism,15.058223,74.157898,5.0,7.8,57
+439,Goa,Sonia Shirsat,tourism,15.391854,73.996923,3.4,3.2,259
+440,Goa,Aquasail 360 Sailing,tourism,15.452024,73.84492,4.3,7.6,481
+441,Goa,CKF Beach,natural,15.4245405,73.89109,1.1,1.2,217
+442,Goa,Bridge to Mansher,tourism,15.4458885,73.93249,1.5,4.2,261
+443,Goa,Nuem Beach,tourism,15.112057,73.935524,2.3,8.9,167
+444,Goa,Figueiredo Mansion,tourism,15.346566,73.979027,2.3,5.3,966
+445,Goa,Game Zone Extreme,tourism,15.535551,73.82087,2.3,7.0,653
+446,Goa,NK Holiday Suite Rooms,tourism,15.259151,73.93634,1.8,5.7,988
+447,Goa,Milsim Goa PaintBall,tourism,15.32193,73.939759,2.4,1.8,212
+448,Goa,Ambora Spring,tourism,15.336471,73.9889,2.7,9.9,583
+449,Goa,Maison Rodesa,tourism,15.3502289,73.8919606,4.1,2.3,695
+450,Goa,Curdi,tourism,15.1652877,74.186803,4.9,2.1,759
+451,Goa,Kuskem Waterfall,tourism,15.2992143,74.1240471,3.9,6.5,134
+452,Goa,Crocodile Station Kamat Kingfisher,tourism,15.408196,73.9085,3.2,6.8,963
+453,Goa,Kesarvale Spring,tourism,15.3834701,73.9290395,1.1,5.0,355
+454,Goa,Paradise Farm,tourism,15.2927611,73.9623458,2.4,8.2,465
+455,Goa,Rachol Fort Gate,tourism,15.3086167,74.0009984,4.5,7.1,84
+456,Goa,Cuncolim Children's Park,tourism,15.18127,74.00042,1.4,8.3,975
+457,Goa,San Thome Museum - Back in Time,tourism,15.2397613,73.9414514,1.3,1.7,807
+458,Goa,Go Green Spice Plantation,tourism,15.1797467,73.9498494,2.3,3.2,876
+459,Goa,Near Chapora Fort,tourism,15.6074052,73.7321763,2.2,1.7,185
+460,Goa,Rosary Garden,tourism,15.25666,73.96655,2.0,3.4,228
+461,Goa,Virginkar Park,tourism,15.27455,73.98199,4.3,2.5,585
+462,Goa,Sailabhatt Childrens Park,tourism,15.25924,74.03401,4.6,3.0,769
+463,Goa,Eden Gardens,tourism,15.31028,73.91052,4.7,1.0,480
+464,Goa,Cris Cruises,tourism,15.17315,73.9472,3.3,5.4,109
+465,Goa,Pandavas Cave,tourism,15.4995414,74.0245458,4.0,6.9,321
+466,Goa,Shiva's face,tourism,15.592392,73.7337345,2.6,3.1,128
+467,Goa,Archeological Museum,tourism,15.5030859,73.9108979,3.0,9.5,179
+468,Goa,Old GMC Complex,tourism,15.490925,73.827869,2.1,9.1,361
+469,Goa,Bhagwan Mahaveer Wildlife sanctuary,tourism,15.3401129,74.2495669,4.4,9.5,483
+470,Goa,Perpetual Gardens,tourism,15.3087004,73.9048479,2.9,7.6,77
+471,Goa,Dudhsagar Swimming area,tourism,15.3119049,74.3138296,2.7,1.4,275
+472,Goa,Devil's Canyon,tourism,15.3393306,74.2622613,3.8,9.1,654
+473,Goa,Alva Mar,tourism,15.5689069,73.7909768,4.9,4.9,597
+474,Goa,Penha da Franca Open Air Hall,tourism,15.5087192,73.8430685,3.2,5.3,169
+475,Goa,Wayside cross,tourism,15.2214635,73.9414873,3.4,7.4,419
+476,Goa,Roadside Cross,tourism,15.2174472,74.0649133,4.3,3.2,730
+477,Goa,Roadside Cross,tourism,15.2174472,74.0649133,1.4,6.9,354
+478,Goa,Confetti wedding hall,tourism,15.165283,73.986055,3.6,2.9,548
+479,Goa,Assolna Heritage Mansion,tourism,15.1820201,73.9693367,1.4,7.7,219
+480,Goa,Mother Mary Statue,tourism,15.2733372,73.9586035,2.1,9.0,750
+481,Goa,Ash,tourism,15.6786859,73.7063915,1.8,4.5,894
+482,Goa,Ashvem football ground,tourism,15.6572517,73.7213578,4.3,2.0,381
+483,Goa,Banyan Tree,tourism,15.6569048,73.7202486,2.9,3.2,542
+484,Goa,Tito Henry de Souza,tourism,15.5561806,73.7519589,1.1,7.8,14
+485,Goa,Banyan Tree,tourism,15.6569048,73.7202486,1.4,5.8,444
+486,Goa,Louisa by the sea,tourism,15.1728057,73.9466716,1.0,3.6,706
+487,Goa,Quinta de Valadares,tourism,15.3505702,73.92279990276795,2.2,6.1,962
+488,Goa,Amoeba Bowling Alley,tourism,15.5255485,73.8273761,1.2,9.6,385
+489,Goa,Bossa Nova,tourism,15.5255534,73.8273089,2.1,5.5,708
+490,Goa,Thrill zone,tourism,15.5351324,73.7644423,4.0,9.2,219
+491,Goa,Solar souto maior,tourism,15.4995709,73.893835,4.4,2.8,815
+492,Goa,Milroc Temple Towers,historic,15.4882206,73.8637364,2.1,5.6,925
+493,Goa,Socos Farm,tourism,15.2172809,73.9784491,4.4,4.6,766
+494,Goa,Siridao Beach,tourism,15.43552885,73.86093612529767,1.4,3.4,75
+495,Goa,The village,tourism,15.3223772,73.951471,1.1,5.8,201
+496,Goa,Arch of Viceroys,historic or tourism,15.5058741,73.9135929,2.8,5.5,510
+497,Goa,Floating Rock,tourism,15.0174093,74.0171682,4.3,4.7,898
+498,Goa,India Freedom Monument,historic,15.3990741,73.8328269,2.2,8.0,831
+499,Goa,Aguada Rocky Beach,natural,15.4918737,73.768097,3.8,7.5,92
+500,Goa,Mannawaall Waterfall,tourism,15.3616745,74.0429699,4.5,6.0,678
+501,Goa,Goa Jungle Adventure,tourism,15.0074053,74.0324128,4.7,1.6,796
+502,Goa,Earth Bowl,tourism,15.5942946,73.7339229,1.6,3.4,129
+503,Goa,Miraculous cross,tourism,15.5854462,73.7631417,3.7,8.1,144
+504,Goa,Big Banyan Tree,tourism,15.7004062,73.741807,1.2,1.0,330
+505,Goa,Saint Paul's College,tourism,15.4992972,73.9182988,4.6,6.9,51
+506,Goa,Alorna Fort,historic,15.7001827,73.9049442,3.5,8.5,275
+507,Goa,Sahakari Spice Farms,tourism,15.4081501,74.0238233,3.0,7.3,614
+508,Goa,Gitanjali,tourism,15.4952679,73.8313819,1.8,6.2,628
+509,Goa,Rock Formations,tourism,15.0288626,73.9864354,1.1,2.8,400
+510,Goa,Samdarshi Ashram,tourism,15.0272842,74.0254403,4.0,8.9,269
+511,Goa,Lake,tourism,15.5765136,73.9410291,2.0,4.3,615
+512,Goa,Henry the Navigator Marker,historic,15.4939419,73.8184014,3.7,7.1,569

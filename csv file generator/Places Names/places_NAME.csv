@@ -1,0 +1,513 @@
+CITYNAME,PLACES_ID,PLACE_NAME
+Bhubaneswar,1,Bhubaneshwar Station
+Bhubaneswar,2,Lingaraja Temple
+Bhubaneswar,3,Nandankanan Zoological Park
+Bhubaneswar,4, Raja Rani Temple
+Bhubaneswar,5,Science Centre
+Bhubaneswar,6,Khandagiri Caves
+Bhubaneswar,7,Udaygiri Caves
+Bhubaneswar,8,Mukteswara Temple
+Bhubaneswar,9,ISKCON 
+Bhubaneswar,10,Chilika Lake
+Bhubaneswar,11,Biju Patnaik Park 
+Bhubaneswar,12,State Tribal Museum 
+Bhubaneswar,13,Raghurajpur village
+Bhubaneswar,14,Dhauli Shanti Stupa
+Bhubaneswar,15,Bindu Sarovar
+Bhubaneswar,16,Ram Mandir
+Bhubaneswar,17,Parasurameswar Temple
+Bhubaneswar,18,Brahmeshwara Temple
+Bhubaneswar,19,Orissa State museum
+Bhubaneswar,20,Hirakud Dam
+Bhubaneswar,21,Ekamra Kanan
+Bhubaneswar,22,Chausath Yogini Temple
+Bhubaneswar,23,Regional Museum of Natural History
+Bhubaneswar,24,Vaital Deul Temple
+Bhubaneswar,25,Pathani Samanta planetarium
+Bhubaneswar,26,Ananta Vasudev Temple
+Bhubaneswar,27,Bhaskareswara Temple
+Bhubaneswar,28,Nicco Park
+Bhubaneswar,29,Ramachandi Beach
+Bhubaneswar,30,Kedar Gauri Temple 
+Bhubaneswar,31,Ocean World Water Park
+Bhubaneswar,32,Tikarpada 
+Bhubaneswar,33,Deras Dam
+Bhubaneswar,34,Esplanade
+Bhubaneswar,35,Gandhi Park
+Bhubaneswar,36,IMFA Park
+Bhubaneswar,37,Kharavela Park
+Bhubaneswar,38,Netaji Subhash Chandra Bose Park
+Bhubaneswar,39,Indira Gandhi Park
+Bhubaneswar,40,Sundara
+Bhubaneswar,41,Patia
+Bhubaneswar,42,Kalinganagar
+Bhubaneswar,43,tarapada
+Bhubaneswar,44,Hanspal
+Bhubaneswar,45,Kalarahanga
+Bhubaneswar,46,Orakal
+Bhubaneswar,47,Patharagadia
+Bhubaneswar,48,VSS Nagar
+Bhubaneswar,49,Mancheswar
+Bhubaneswar,50,Pandra
+Bhubaneswar,51,Tamando
+Bhubaneswar,52,Andharua
+Bhubaneswar,53,Badaraghunathpur
+Bhubaneswar,54,Baramunda
+Bhubaneswar,55,Bharatpur
+Bhubaneswar,56,Vani Vihar
+Bhubaneswar,57,Salia Sahi
+Bhubaneswar,58,Gajapati Nagar
+Bhubaneswar,59,Nalco Nagar
+Bhubaneswar,60,Rail Vihar
+Bhubaneswar,61,Niladri Vihar
+Bhubaneswar,62,Sailashree Vihar
+Bhubaneswar,63,Damana
+Bhubaneswar,64,Acharya Vihar
+Bhubaneswar,65,Ashok Nagar
+Bhubaneswar,66,Bapuji Nagar
+Bhubaneswar,67,Bhauma Nagar
+Bhubaneswar,68,Bhoi Nagar
+Bhubaneswar,69,Ekamra Vihar
+Bhubaneswar,70,Forest Park
+Bhubaneswar,71,Ganga Nagar
+Bhubaneswar,72,Keshari Nagar
+Bhubaneswar,73,Saheed Nagar
+Bhubaneswar,74,BJB Nagar
+Bhubaneswar,75,Rajarani Colony
+Bhubaneswar,76,Pandav Nagar
+Bhubaneswar,77,Brahmeswar Bagh
+Bhubaneswar,78,Lingaraj Nagar
+Bhubaneswar,79,Gouri Nagar
+Bhubaneswar,80,Bhima
+Bhubaneswar,81,Kapileswar
+Bhubaneswar,82,Old Town
+Bhubaneswar,83,Uttara
+Bhubaneswar,84,AIIMS
+Bhubaneswar,85,Gopabandhu Nagar
+Bhubaneswar,86,Delta Colony
+Bhubaneswar,87,Surya Nagar
+Bhubaneswar,88,CRPF
+Bhubaneswar,89,Jagamara
+Bhubaneswar,90,Khandagiri
+Bhubaneswar,91,Gandamunda
+Bhubaneswar,92,Pokhariput
+Bhubaneswar,93,Palaspali
+Bhubaneswar,94,Bhimatangi
+Bhubaneswar,95,Dumduma
+Bhubaneswar,96,Sundarpada
+Bhubaneswar,97,Balabhadrapur 
+Bhubaneswar,98,Kantilo
+Bhubaneswar,99,Ebaranga 
+Bhubaneswar,100,Patrapada
+Bhubaneswar,101,Udayagiri Vihar
+Bhubaneswar,102,Palasuni
+Bhubaneswar,103,Kalinga Nagar
+Bhubaneswar,104,Ghatikia
+Bhubaneswar,105,Janla
+Bhubaneswar,106,Retang oyo
+Bhubaneswar,107,IIT Bhubaneswar
+Bhubaneswar,108,SUM Hospital 
+Bhubaneswar,109,Siksha 'O' Anusandhan University
+Bhubaneswar,110,National Institute of Science and Education and Research 
+Bhubaneswar,111,Utkal University
+Bhubaneswar,112,College of Engineering and Technology 
+Bhubaneswar,113,Biju Patnaik University of Technology 
+Bhubaneswar,114,Institute of Hotel Management
+Bhubaneswar,115,National Institute of Fashion Technology 
+Bhubaneswar,116,Siksha 'O' Anusandhan Deemed University
+Bhubaneswar,117,KIIT School of Management 
+Bhubaneswar,118,XIMB - Xavier Institute of Management
+Bhubaneswar,119,S.C.B Medical College
+Bhubaneswar,120,C.V. Raman Global University
+Bhubaneswar,121,Institute of Aeronautical Engineering 
+Bhubaneswar,122,Gandhi Institute for Technological Advancement 
+Bhubaneswar,123,Institute of Business Management
+Bhubaneswar,124,College of Pharmaceutical Sciences 
+Bhubaneswar,125,College of Nursing 
+Bhubaneswar,126,College of Dental Surgery 
+Bhubaneswar,127,SOA University School of Law
+Bhubaneswar,128,KIIT School of Law
+Cuttack,129,Cuttack Station
+Cuttack,130,Cuttack Chandi Temple
+Cuttack,131,Singhanath Temple
+Cuttack,132,Maa Charchika Temple
+Cuttack,133,Dhabaleswar Temple
+Cuttack,134,Netaji Subhas Chandra Bose Birthplace Museum
+Cuttack,135,Odisha Maritime Museum
+Cuttack,136,Barabati Fort
+Cuttack,137,Mahendra Mahal
+Cuttack,138,Qadam-I-Rasool Shrine
+Cuttack,139,Orissa High Court
+Cuttack,140,State Botanical Garden
+Cuttack,141,Nilakantheswar Math 
+Cuttack,142,Choudhury Bazaar 
+Cuttack,143,world Bazaar 
+Cuttack,144,Bali Sahi Bazaar
+Cuttack,145,Khanapara Market
+Cuttack,146,Cuttack Club 
+Cuttack,147,Utkal Sangeet Mahavidyalaya
+Cuttack,148,Cuttack Stadium 
+Cuttack,149,Qadam-I-Rasool Park
+Cuttack,150,Buxi Bazaar 
+Cuttack,151,Gadhei Mandir 
+Cuttack,152,CDA Sector 9 
+Cuttack,153,Mangalabag 
+Cuttack,154,Stewart Road 
+Cuttack,155,Khan Nagar
+Cuttack,156,Jagatpur
+Cuttack,157,Nimtouri 
+Cuttack,158,Badambadi 
+Cuttack,159,Tulasipur 
+Cuttack,160,Ravenshaw University
+Cuttack,161,"College of Engineering & Technology (CET), Cuttack"
+Cuttack,162,Indira Gandhi Institute of Dental Sciences and Hospital
+Cuttack,163,Sri Sri University (Located near Cuttack)
+Cuttack,164,Institute of Mathematics (IM)
+Cuttack,165,Institute of Physics (IP)
+Cuttack,166,Institute of Chemistry (IC)
+Cuttack,167,Regional College of Management (RCM)
+Cuttack,168,Institute of Social Sciences (ISS)
+Cuttack,169,College of Agriculture & Technology (COA&T)
+Cuttack,170,College of Veterinary Science & Animal Husbandry (CVSc & AH)
+Cuttack,171,College of Basic Science & Humanities (CBS&H)
+Cuttack,172,Cuttack Law College
+Cuttack,173,Shree Jagannath Inn
+Cuttack,174,Pipul Padmaja Pride
+Cuttack,175,Hotel Ashoka
+Cuttack,176,The Blue Lagoon Premium Hotel
+Cuttack,177,Hotel Bombay Inn
+Cuttack,178,Mayfair Lagoon
+Cuttack,179,The Nexus Odia
+Cuttack,180,Hotel Mayur 
+Cuttack,181,panday Bazaar
+Cuttack,182,Jagat Bazaar 
+Cuttack,183,Bali Sahi Bazaar 
+Cuttack,184,Khanapara Market 
+Cuttack,185,Jhola Sahi 
+Cuttack,186,Choudhury Bazaar
+Cuttack,187,Nayasarak 
+Cuttack,188,Nua Bazaar
+Cuttack,189,Khan Nagar Market
+Cuttack,190,College Square Market
+Cuttack,191,Utkal Kantha House
+Cuttack,192,Tarini Sarees 
+Cuttack,193,Silver Palace
+Cuttack,194,Akhandalam
+Cuttack,195,Odisha Modern
+Cuttack,196,Cuttack Cloth Store
+Cuttack,197,Cuttack Bakery 
+Cuttack,198,Utkal Crafts 
+Cuttack,199,Maa Durga Pustak Bhandar 
+Cuttack,200,Aditya Departmental Store
+Cuttack,201,Rajatarangini Complex
+Cuttack,202,Balaram Place Mall
+Cuttack,203,Sgbl Square Mall
+Cuttack,204,Rex Plaza
+Cuttack,205,Biju Pattanaik Park
+Cuttack,206,Gouri Shankar Park
+Cuttack,207,Jugal Kishore Park Sector 9
+Cuttack,208,Jobra Park
+Cuttack,209,Nandan Kanan Botanical Garden 
+Cuttack,210,Maa Cuttack Chandi Children's Park
+Cuttack,211,Badhi Park
+Cuttack,212,Saranda Garh Hill Top Park
+Cuttack,213,Mahtab Nagar Park
+Cuttack,214,Dagar Pada Children Park
+Cuttack,215,Chahata Park
+Cuttack,216,Odisha Tourism Development Corporation Park
+Cuttack,217,Highway Honda (Honda)
+Cuttack,218,Sky Automobiles (Multi-Brand)
+Cuttack,219,Aditya Motors (Maruti Suzuki)
+Cuttack,220,Gugnani Autocars (Multi-Brand)
+Cuttack,221,Espirit Toyota (Toyota)
+Cuttack,222,Central Kia (Kia Motors)
+Cuttack,223,Utkal Hyundai (Hyundai)
+Cuttack,224,Tushi Motors Pvt. Ltd. (Multi-Brand)
+Cuttack,225,Odisha Ford (Ford)
+Cuttack,226,Nexa Showroom (Maruti Suzuki Nexa)
+Cuttack,227,Renault Cuttack (Renault)
+Cuttack,228,Puma Store (Zs Tower)
+Cuttack,229,Bata Shoe Store (Several Locations)
+Cuttack,230,Khadim's (Several Locations)
+Cuttack,231,Woodland Store
+Cuttack,232,Blackberrys
+Cuttack,233,Vishal Mega Mart
+Cuttack,234,TRENDS (Reliance)
+Cuttack,235,Max Fashion
+Cuttack,236,Pantaloons
+Cuttack,237,Sreeleathers
+Cuttack,238,Routray Shoe Shop
+Cuttack,239,Landmark Shoes
+Cuttack,240,The Loot Store
+Cuttack,241,City Walk Shoes
+Cuttack,242,Shoe point
+Cuttack,243,Campus Exclusive Store
+Cuttack,244,Hercules Fitness
+Cuttack,245,Fitness Mantra
+Cuttack,246,Titans Gym
+Cuttack,247,Equinox Gym
+Cuttack,248,Stark Gym
+Cuttack,249,Mukameswar Playground
+Cuttack,250,Mahavir Play Ground
+Cuttack,251,Ravenshaw Ranji Trophy Cricket Ground
+Cuttack,252,Keshpur Ground
+Cuttack,253,Jhinkiria Cricket Ground
+Cuttack,254,Tarinee Mandir Ground
+Cuttack,255,Bidanasi Cricket Ground
+Cuttack,256,Satyabrata Stadium
+Kolkata,257,Howrah Station
+Kolkata,258,Victoria Memorial Hall
+Kolkata,259,Fort William
+Kolkata,260,Howrah Bridge
+Kolkata,261,St. Paul's Cathedral
+Kolkata,262,South Park Street Cemetery
+Kolkata,263,Prinsep Ghat
+Kolkata,264,Marble Palace Mansion
+Kolkata,265,Writer's Building
+Kolkata,266,Armenian Ghat
+Kolkata,267,Janagar Fort (Barrackpore)
+Kolkata,268,Dakshineswar Kali Temple
+Kolkata,269,Kalighat Temple
+Kolkata,270,Belur Math
+Kolkata,271,Birla Mandir
+Kolkata,272,Nakhoda Mosque
+Kolkata,273,Calcutta Jain Temple
+Kolkata,274,ISKCON Kolkata
+Kolkata,275,St. Philomena's Church
+Kolkata,276,Chinese Temple
+Kolkata,277,Tiretta Bazaar Mosque
+Kolkata,278,Indian Museum
+Kolkata,279,Birla Industrial & Technological Museum
+Kolkata,280,Mother Teresa's Home Museum
+Kolkata,281,National Library of India
+Kolkata,282,Marble Palace Mansion 
+Kolkata,283,Academy of Fine Arts
+Kolkata,284,Maidan
+Kolkata,285,Eco Tourism Park
+Kolkata,286,Acharya Jagadish Chandra Bose Indian Botanic Garden
+Kolkata,287,Rabindra Sarobar
+Kolkata,288,Cubbon Park
+Kolkata,289,New Market
+Kolkata,290,Gariahat Market
+Kolkata,291,Shova Bazaar
+Kolkata,292,Esplanade
+Kolkata,293,Nicco Park
+Kolkata,294,Science City Kolkata
+Kolkata,295,Rabindra Sadan
+Kolkata,296,Nandan (cultural complex)
+Kolkata,297,Eden Gardens (cricket stadium)
+Kolkata,298,Rabindra Setu (second Hooghly Bridge)
+Kolkata,299,Millennium Park
+Kolkata,300,Birla Planetarium
+Kolkata,301,Kolkata Race Course
+Kolkata,302,Hundai Motors India Limited
+Kolkata,303,MG Motor India
+Kolkata,304,Kia Motors India
+Kolkata,305,Toyota Kirloskar Motor
+Kolkata,306,Ford India
+Kolkata,307,Skoda Auto India
+Kolkata,308,Volkswagen India
+Kolkata,309,Mahindra & Mahindra Ltd
+Kolkata,310,Tata Motors Ltd
+Kolkata,311,Nissan India
+Kolkata,312,Renault India
+Kolkata,313,Maruti Suzuki Arena
+Kolkata,314,Nexa Experience Center
+Kolkata,315,Jeep India
+Kolkata,316,Citroen India
+Kolkata,317,Mitsubishi Motors India
+Kolkata,318,Isuzu Motors India
+Kolkata,319,Volvo Car India
+Kolkata,320,Mercedes-Benz India
+Kolkata,321,BMW India
+Kolkata,322,Audi India
+Kolkata,323,Porsche India
+Kolkata,324,Jaguar Land Rover India
+Kolkata,325,Lexus India
+Kolkata,326,Bajaj Auto Ltd
+Kolkata,327,Royal Enfield Motors Ltd
+Kolkata,328,Hero MotoCorp Ltd
+Kolkata,329,Honda Motorcycle & Scooter India Pvt Ltd
+Kolkata,330,Yamaha Motor India Group
+Kolkata,331,TVS Motor Company
+Kolkata,332,Reliance Digital
+Kolkata,333,Croma
+Kolkata,334,Vijay Sales
+Kolkata,335,Pai Electronics
+Kolkata,336,Bajaj Electronics
+Kolkata,337,Univercell
+Kolkata,338,Poorvika Mobiles
+Kolkata,339,BigC
+Kolkata,340,Hari Om Electronics
+Kolkata,341,Great Eastern Retail (electronics division)
+Kolkata,342,Aditya Vision Ltd
+Kolkata,343,Teleworld Communication
+Kolkata,344,Justdial Electronics
+Kolkata,345,Chunnilal Bose Electronics
+Kolkata,346,Chatterjee Electronics
+Kolkata,347,RP Electronics
+Kolkata,348,Agarwal Electronics
+Kolkata,349,Bose Electronics
+Kolkata,350,Gupta Electronics
+Kolkata,351,Singh Electronics
+Kolkata,352,Electronix City (Esplanade)
+Kolkata,353,Ezone (Gariahat)
+Kolkata,354,Next (electronics section) (various locations)
+Kolkata,355,Singhi Electronics (College Street)
+Kolkata,356,Bose Brothers (Esplanade)
+Kolkata,357,Gupta Radio (Bhawanipore)
+Kolkata,358,Eastern Electronics (Esplanade)
+Kolkata,359,Kohinoor Electronics (Gariahat)
+Kolkata,360,Sonodyne (Gariahat)
+Kolkata,361,Sound Planet (Park Street)
+Kolkata,362,Aaheli
+Kolkata,363,The Oberoi Kolkata
+Kolkata,364,6 Ballygunge Place 
+Kolkata,365,The Park
+Kolkata,366,Veda
+Kolkata,367,Kewpie's 
+Kolkata,368,Peter Cat
+Kolkata,369,Arsalan 
+Kolkata,370,Moghuai 
+Kolkata,371,Bar B Q
+Kolkata,372,Kolkata Kathi Rolls 
+Kolkata,373,Kusum Rolls 
+Kolkata,374,Paramount 
+Kolkata,375,Mitra Café
+Kolkata,376,Sharma Tea 
+Kolkata,377,K.C. Das 
+Kolkata,378,Balaram Mullick Radharaman Mullick 
+Kolkata,379,Nahoums 
+Kolkata,380,Flurys 
+Kolkata,381,Moustache 
+Kolkata,382,Srinivasan 
+Kolkata,383,Adyar Ananda Bhavan 
+Kolkata,384,Saravana Bhavan
+Visakhapatnam,385,Visakhapatnam Station
+Visakhapatnam,386,Rama Krishna Beach
+Visakhapatnam,387,Yarada Beach
+Visakhapatnam,388,Rishikonda Beach
+Visakhapatnam,389,Bheemili Beach
+Visakhapatnam,390,Gangavaram Beach
+Visakhapatnam,391,Lawson's Bay Beach
+Visakhapatnam,392,Sagar Nagar Beach
+Visakhapatnam,393,Simhachalam Temple
+Visakhapatnam,394,Ross Hill Church
+Visakhapatnam,395,Thotlakonda
+Visakhapatnam,396,Bojjannakonda
+Visakhapatnam,397,Varaha Lakshmi Narasimha Temple
+Visakhapatnam,398,INS Kurusura Submarine Museum
+Visakhapatnam,399,Visakha Museum
+Visakhapatnam,400,TU 142 Aircraft Museum
+Visakhapatnam,401,Matsyadarshini Aquarium
+Visakhapatnam,402,Kailasagiri
+Visakhapatnam,403,VUDA Park
+Visakhapatnam,404,Biodiversity Park
+Visakhapatnam,405,Araku Valley
+Visakhapatnam,406,Katiki Waterfalls
+Visakhapatnam,407,Dolphin's Nose
+Visakhapatnam,408,Indira Gandhi Zoological Park
+Visakhapatnam,409,Kambalakonda Wildlife Sanctuary
+Visakhapatnam,410,Tenneti Park
+Visakhapatnam,411,Victory at Sea War Memorial
+Visakhapatnam,412,Lambasingi
+Visakhapatnam,413,Ananthagiri
+Visakhapatnam,414,Borra Caves
+Visakhapatnam,415,Tyda Nature Camp
+Visakhapatnam,416,Bavikonda
+Visakhapatnam,417,Pavuralakonda
+Visakhapatnam,418,Appikonda
+Visakhapatnam,419,Kondakarla Ava
+Visakhapatnam,420,Itika Pongal
+Visakhapatnam,421,Buddhist Excavation Sites
+Visakhapatnam,422,Vizag Harbour
+Visakhapatnam,423,War memorial
+Visakhapatnam,424,City Shopping Malls
+Visakhapatnam,425,Rushikonda Beach
+Visakhapatnam,426,Yeleru Reservoir
+Visakhapatnam,427,Meghadri Hills
+Visakhapatnam,428,Sankarabhanumudra
+Visakhapatnam,429,VIZAG Music Valley
+Visakhapatnam,430,VIZAG Convention Center
+Visakhapatnam,431,VIZAG Coastal Battery
+Visakhapatnam,432,VIZAG Rushikonda IT SEZ
+Visakhapatnam,433,VIZAG Airport
+Visakhapatnam,434,VIZAG RK Beach Beach
+Visakhapatnam,435,The Park Visakhapatnam
+Visakhapatnam,436,Dolphin Hotel
+Visakhapatnam,437,Taj Mahal
+Visakhapatnam,438,The Evas
+Visakhapatnam,439,Big Bazaar (CCD)
+Visakhapatnam,440,Cafe Coffee Day
+Visakhapatnam,441,Wah - Italiano
+Visakhapatnam,442,Barbeque Nation
+Visakhapatnam,443,Pizza Hut
+Visakhapatnam,444,KFC
+Visakhapatnam,445,Subbayya Gari Hotel
+Visakhapatnam,446,Vizag Kitchen
+Visakhapatnam,447,Raju's
+Visakhapatnam,448,Daspalla Sweets
+Visakhapatnam,449,Appala Raju Sweets
+Visakhapatnam,450,MVP Beach Stalls
+Visakhapatnam,451,Rushikonda Beach Stalls
+Visakhapatnam,452,Ushodaya Mess
+Visakhapatnam,453,Dao Ze - The Highway Thief
+Visakhapatnam,454,Annapurna
+Visakhapatnam,455,The Coffee Club
+Visakhapatnam,456,The French Bakery
+Visakhapatnam,457,Igloo Bakery
+Visakhapatnam,458,The Bakers Castle
+Visakhapatnam,459,Bread Story
+Visakhapatnam,460,Just Bake
+Visakhapatnam,461,Swagrama Foods
+Visakhapatnam,462,Daksha
+Visakhapatnam,463,Anandi Bakers
+Visakhapatnam,464,Macchiato Coffee Shop & Bakery
+Visakhapatnam,465,Visakha Electronics
+Visakhapatnam,466,Sri Rama Electronics
+Visakhapatnam,467,Sai Digital
+Visakhapatnam,468,Reliance Digital 
+Visakhapatnam,469,Vijay Sales 
+Visakhapatnam,470,Croma 
+Visakhapatnam,471,Pai Electronics
+Visakhapatnam,472,Chennai Electronics
+Visakhapatnam,473,RK Electronics
+Visakhapatnam,474,Lalitha Electronics
+Visakhapatnam,475,Navaratna Electronics
+Visakhapatnam,476,The Gadget Store
+Visakhapatnam,477,NextGen Electronics
+Visakhapatnam,478,Sound & Vision
+Visakhapatnam,479,Max Electronics
+Visakhapatnam,480,Tech World
+Visakhapatnam,481,Digital Point
+Visakhapatnam,482,Smart Buy Electronics
+Visakhapatnam,483,Future Electronics
+Visakhapatnam,484,Galaxy Electronics
+Visakhapatnam,485,Sri Venkateswara Electronics
+Visakhapatnam,486,Bajaj Electronics
+Visakhapatnam,487,Justdial Electronics
+Visakhapatnam,488,Happy Home Appliances
+Visakhapatnam,489,Great Eastern Gadgets
+Visakhapatnam,490,AVR Electronics
+Visakhapatnam,491,Cell Zone
+Visakhapatnam,492,Mobile World
+Visakhapatnam,493,The Phone Hub
+Visakhapatnam,494,Gadget Guru
+Visakhapatnam,495,Bata Shoe Store
+Visakhapatnam,496,Metro Shoes Ltd
+Visakhapatnam,497,Mochi - The Shoe Shoppe
+Visakhapatnam,498,Liberty Shoes
+Visakhapatnam,499,Walkaroo
+Visakhapatnam,500,Paragon
+Visakhapatnam,501,Khadim's India Ltd
+Visakhapatnam,502,Woodland
+Visakhapatnam,503,Lee Cooper
+Visakhapatnam,504,Red Tape
+Visakhapatnam,505,Westside
+Visakhapatnam,506,Max Fashion
+Visakhapatnam,507,Pantaloons
+Visakhapatnam,508,Reliance Trends
+Visakhapatnam,509,Puma
+Visakhapatnam,510,Nike
+Visakhapatnam,511,Adidas
+Visakhapatnam,512,Clarks

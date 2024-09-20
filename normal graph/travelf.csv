@@ -1,0 +1,164 @@
+Source,Destination,Time(hrs),Cost(Rs)
+Bhubaneswar Railway Station(Bhubaneswar),Lingaraj Temple(Bhubaneswar),0.25,150
+Bhubaneswar Railway Station(Bhubaneswar),Nandankanan Zoological Park(Bhubaneswar),0.5,200
+Bhubaneswar Railway Station(Bhubaneswar),Odisha State Museum(Bhubaneswar),0.1,30
+Bhubaneswar Railway Station(Bhubaneswar),Stone Revetment(Cuttack),0.35,140
+Bhubaneswar Railway Station(Bhubaneswar),ISKCON Temple(Bhubaneswar),0.2,130
+Bhubaneswar Railway Station(Bhubaneswar),Rajarani Temple(Bhubaneswar),0.15,70
+Bhubaneswar Railway Station(Bhubaneswar),Mukteswara Temple(Bhubaneswar),0.18,75
+Bhubaneswar Railway Station(Bhubaneswar),Ram mandir(Bhubaneswar),0.08,85
+Lingaraj Temple(Bhubaneswar),Nandankanan Zoological Park(Bhubaneswar),0.66,220
+Lingaraj Temple(Bhubaneswar),Odisha State Museum(Bhubaneswar),0.11,55
+Lingaraj Temple(Bhubaneswar),Dhauli Shanti Stupa(Bhubaneswar),0.26,100
+Lingaraj Temple(Bhubaneswar),ISKCON Temple(Bhubaneswar),0.33,140
+Lingaraj Temple(Bhubaneswar),Rajarani Temple(Bhubaneswar),0.11,55
+Lingaraj Temple(Bhubaneswar),Mukteswara Temple(Bhubaneswar),0.1,50
+Lingaraj Temple(Bhubaneswar),Ram mandir(Bhubaneswar),0.21,150
+Nandankanan Zoological Park(Bhubaneswar),Odisha State Museum(Bhubaneswar),0.58,220
+Nandankanan Zoological Park(Bhubaneswar),Dhauli Shanti Stupa(Bhubaneswar),0.8,290
+Nandankanan Zoological Park(Bhubaneswar),ISKCON Temple(Bhubaneswar),0.36,150
+Nandankanan Zoological Park(Bhubaneswar),Rajarani Temple(Bhubaneswar),0.46,200
+Nandankanan Zoological Park(Bhubaneswar),Mukteswara Temple(Bhubaneswar),0.5,210
+Nandankanan Zoological Park(Bhubaneswar),Ram mandir(Bhubaneswar),0.36,190
+Odisha State Museum(Bhubaneswar),Dhauli Shanti Stupa(Bhubaneswar),0.3,185
+Odisha State Museum(Bhubaneswar),ISKCON Temple(Bhubaneswar),0.25,100
+Odisha State Museum(Bhubaneswar),Rajarani Temple(Bhubaneswar),0.08,50
+Odisha State Museum(Bhubaneswar),Mukteswara Temple(Bhubaneswar),0.11,55
+Odisha State Museum(Bhubaneswar),Ram mandir(Bhubaneswar),0.13,70
+Dhauli Shanti Stupa(Bhubaneswar),ISKCON Temple(Bhubaneswar),0.3,100
+Dhauli Shanti Stupa(Bhubaneswar),Rajarani Temple(Bhubaneswar),0.28,103
+Dhauli Shanti Stupa(Bhubaneswar),Mukteswara Temple(Bhubaneswar),0.25,95
+Dhauli Shanti Stupa(Bhubaneswar),Ram mandir(Bhubaneswar),0.38,150
+ISKCON Temple(Bhubaneswar),Rajarani Temple(Bhubaneswar),0.16,55
+ISKCON Temple(Bhubaneswar),Mukteswara Temple(Bhubaneswar),0.35,190
+ISKCON Temple(Bhubaneswar),Ram mandir(Bhubaneswar),0.2,150
+Rajarani Temple(Bhubaneswar),Mukteswara Temple(Bhubaneswar),0.13,0
+Rajarani Temple(Bhubaneswar),Ram mandir(Bhubaneswar),0.18,60
+Mukteswara Temple(Bhubaneswar),Ram mandir(Bhubaneswar),0.16,60
+Lingaraj Temple(Bhubaneswar),Cuttack Junction Railway Station(Cuttack),0.8,315
+Nandankanan Zoological Park(Bhubaneswar),Cuttack Junction Railway Station(Cuttack),0.56,169
+Odisha State Museum(Bhubaneswar),Cuttack Junction Railway Station(Cuttack),0.8,320
+Dhauli Shanti Stupa(Bhubaneswar),Cuttack Junction Railway Station(Cuttack),0.83,325
+ISKCON Temple(Bhubaneswar),Cuttack Junction Railway Station(Cuttack),0.76,295
+Rajarani Temple(Bhubaneswar),Cuttack Junction Railway Station(Cuttack),0.76,295
+Mukteswara Temple(Bhubaneswar),Cuttack Junction Railway Station(Cuttack),0.77,297
+Ram mandir(Bhubaneswar),Cuttack Junction Railway Station(Cuttack),0.78,300
+Cuttack Junction Railway Station(Cuttack),Cuttack Chandi Temple(Cuttack),0.23,88
+Cuttack Junction Railway Station(Cuttack),Qadam-I-Rasool(Cuttack),0.23,90
+Cuttack Junction Railway Station(Cuttack),Stone Revetment(Cuttack),0.2,90
+Cuttack Chandi Temple(Cuttack),Qadam-I-Rasool(Cuttack),0.15,70
+Cuttack Chandi Temple(Cuttack),Stone Revetment(Cuttack),0.06,50
+Qadam-I-Rasool(Cuttack),Stone Revetment(Cuttack),0.13,60
+Bhubaneswar Railway Station(Bhubaneswar),Cuttack Junction Railway Station(Cuttack),0.55,145
+Bhubaneswar Railway Station(Bhubaneswar),Cuttack Chandi Temple(Cuttack) ,0.78,278
+Bhubaneswar Railway Station(Bhubaneswar),Qadam-I-Rasool(Cuttack),0.81,300
+Bhubaneswar Railway Station(Bhubaneswar),Stone Revetment(Cuttack),0.83,320
+Lingaraj Temple(Bhubaneswar),Cuttack Chandi Temple(Cuttack) ,0.86,325
+Lingaraj Temple(Bhubaneswar),Qadam-I-Rasool(Cuttack),0.9,340
+Lingaraj Temple(Bhubaneswar),Stone Revetment(Cuttack),0.91,342
+Nandankanan Zoological Park(Bhubaneswar),Cuttack Chandi Temple(Cuttack) ,0.41,152
+Nandankanan Zoological Park(Bhubaneswar),Qadam-I-Rasool(Cuttack),0.48,160
+Nandankanan Zoological Park(Bhubaneswar),Stone Revetment(Cuttack),0.46,160
+Odisha State Museum(Bhubaneswar),Cuttack Chandi Temple(Cuttack) ,0.78,300
+Odisha State Museum(Bhubaneswar),Qadam-I-Rasool(Cuttack),0.8,310
+Odisha State Museum(Bhubaneswar),Stone Revetment(Cuttack),0.83,315
+Dhauli Shanti Stupa(Bhubaneswar),Cuttack Chandi Temple(Cuttack) ,0.98,330
+Dhauli Shanti Stupa(Bhubaneswar),Qadam-I-Rasool(Cuttack),0.91,318
+Dhauli Shanti Stupa(Bhubaneswar),Stone Revetment(Cuttack),0.95,325
+ISKCON Temple(Bhubaneswar),Cuttack Chandi Temple(Cuttack) ,0.66,280
+ISKCON Temple(Bhubaneswar),Qadam-I-Rasool(Cuttack),0.7,280
+ISKCON Temple(Bhubaneswar),Stone Revetment(Cuttack),0.7,281
+Rajarani Temple(Bhubaneswar),Cuttack Chandi Temple(Cuttack) ,0.8,295
+Rajarani Temple(Bhubaneswar),Qadam-I-Rasool(Cuttack),0.83,300
+Rajarani Temple(Bhubaneswar),Stone Revetment(Cuttack),0.85,310
+Mukteswara Temple(Bhubaneswar),Cuttack Chandi Temple(Cuttack) ,0.78,300
+Mukteswara Temple(Bhubaneswar),Qadam-I-Rasool(Cuttack),0.83,315
+Mukteswara Temple(Bhubaneswar),Stone Revetment(Cuttack),0.85,320
+Ram mandir(Bhubaneswar),Cuttack Chandi Temple(Cuttack) ,0.68,285
+Ram mandir(Bhubaneswar),Qadam-I-Rasool(Cuttack),0.75,280
+Ram mandir(Bhubaneswar),Stone Revetment(Cuttack),0.75,280
+Cuttack Junction Railway Station(Cuttack),Howrah Junction Railway Station(Kolkata),6.75,800
+Cuttack Chandi Temple(Cuttack) ,Howrah Junction Railway Station(Kolkata),8.5,2350
+Qadam-I-Rasool(Cuttack),Howrah Junction Railway Station(Kolkata),8.5,2350
+Stone Revetment(Cuttack),Howrah Junction Railway Station(Kolkata),8.51,2360
+Howrah Junction Railway Station(Kolkata),Victoria Memorial(Kolkata),0.33,295
+Howrah Junction Railway Station(Kolkata),Howrah Bridge(Kolkata),0.11,0
+Howrah Junction Railway Station(Kolkata),Dakshineswar Kali Temple(Kolkata),0.78,373
+Howrah Junction Railway Station(Kolkata),Park Street(Kolkata),0.5,226
+Victoria Memorial(Kolkata),Howrah Bridge(Kolkata),0.21,161
+Victoria Memorial(Kolkata),Dakshineswar Kali Temple(Kolkata),0.71,614
+Victoria Memorial(Kolkata),Park Street(Kolkata),0.08,129
+Howrah Bridge(Kolkata),Dakshineswar Kali Temple(Kolkata),0.71,328
+Howrah Bridge(Kolkata),Park Street(Kolkata),0.31,214
+Dakshineswar Kali Temple(Kolkata),Park Street(Kolkata),0.86,331
+Bhubaneswar Railway Station(Bhubaneswar),Victoria Memorial(Kolkata),9,2000
+Bhubaneswar Railway Station(Bhubaneswar),Howrah Bridge(Kolkata),9.01,2010
+Bhubaneswar Railway Station(Bhubaneswar),Dakshineswar Kali Temple(Kolkata),8.9,1995
+Bhubaneswar Railway Station(Bhubaneswar),Park Street(Kolkata),9.01,2010
+Lingaraj Temple(Bhubaneswar),Victoria Memorial(Kolkata),9.06,2030
+Lingaraj Temple(Bhubaneswar),Howrah Bridge(Kolkata),9.16,2060
+Lingaraj Temple(Bhubaneswar),Dakshineswar Kali Temple(Kolkata),9,2000
+Lingaraj Temple(Bhubaneswar),Park Street(Kolkata),9.06,2030
+Nandankanan Zoological Park(Bhubaneswar),Victoria Memorial(Kolkata),8.61,1500
+Nandankanan Zoological Park(Bhubaneswar),Howrah Bridge(Kolkata),8.71,1550
+Nandankanan Zoological Park(Bhubaneswar),Dakshineswar Kali Temple(Kolkata),8.5,1450
+Nandankanan Zoological Park(Bhubaneswar),Park Street(Kolkata),8.52,1455
+Odisha State Museum(Bhubaneswar),Victoria Memorial(Kolkata),9,2000
+Odisha State Museum(Bhubaneswar),Howrah Bridge(Kolkata),9.12,2050
+Odisha State Museum(Bhubaneswar),Dakshineswar Kali Temple(Kolkata),8.77,1550
+Odisha State Museum(Bhubaneswar),Park Street(Kolkata),9.06,2030
+Dhauli Shanti Stupa(Bhubaneswar),Victoria Memorial(Kolkata),8.9,1995
+Dhauli Shanti Stupa(Bhubaneswar),Howrah Bridge(Kolkata),9.13,2052
+Dhauli Shanti Stupa(Bhubaneswar),Dakshineswar Kali Temple(Kolkata),9.07,2034
+Dhauli Shanti Stupa(Bhubaneswar),Park Street(Kolkata),9.01,2010
+ISKCON Temple(Bhubaneswar),Victoria Memorial(Kolkata),8.81,1895
+ISKCON Temple(Bhubaneswar),Howrah Bridge(Kolkata),8.98,1995
+ISKCON Temple(Bhubaneswar),Dakshineswar Kali Temple(Kolkata),9.02,2005
+ISKCON Temple(Bhubaneswar),Park Street(Kolkata),9.05,2015
+Rajarani Temple(Bhubaneswar),Victoria Memorial(Kolkata),8.95,1990
+Rajarani Temple(Bhubaneswar),Howrah Bridge(Kolkata),9.06,2030
+Rajarani Temple(Bhubaneswar),Dakshineswar Kali Temple(Kolkata),9.02,2015
+Rajarani Temple(Bhubaneswar),Park Street(Kolkata),9.12,2050
+Mukteswara Temple(Bhubaneswar),Victoria Memorial(Kolkata),8.87,1992
+Mukteswara Temple(Bhubaneswar),Howrah Bridge(Kolkata),9.07,2020
+Mukteswara Temple(Bhubaneswar),Dakshineswar Kali Temple(Kolkata),9.03,2005
+Mukteswara Temple(Bhubaneswar),Park Street(Kolkata),9.01,2005
+Ram mandir(Bhubaneswar),Victoria Memorial(Kolkata),9.04,2007
+Ram mandir(Bhubaneswar),Howrah Bridge(Kolkata),9.02,2005
+Ram mandir(Bhubaneswar),Dakshineswar Kali Temple(Kolkata),8.92,1990
+Ram mandir(Bhubaneswar),Park Street(Kolkata),9.02,2000
+Cuttack Chandi Temple(Cuttack) ,Victoria Memorial(Kolkata),8.33,1355
+Cuttack Chandi Temple(Cuttack) ,Howrah Bridge(Kolkata),8.43,1410
+Cuttack Chandi Temple(Cuttack) ,Dakshineswar Kali Temple(Kolkata),8.21,1300
+Cuttack Chandi Temple(Cuttack) ,Park Street(Kolkata),8.36,1350
+Qadam-I-Rasool(Cuttack),Victoria Memorial(Kolkata),8.41,1400
+Qadam-I-Rasool(Cuttack),Howrah Bridge(Kolkata),8.51,1450
+Qadam-I-Rasool(Cuttack),Dakshineswar Kali Temple(Kolkata),8.25,1305
+Qadam-I-Rasool(Cuttack),Park Street(Kolkata),8.4,1400
+Stone Revetment(Cuttack),Victoria Memorial(Kolkata),8.12,1250
+Stone Revetment(Cuttack),Howrah Bridge(Kolkata),8.05,1200
+Stone Revetment(Cuttack),Dakshineswar Kali Temple(Kolkata),8.09,1210
+Stone Revetment(Cuttack),Park Street(Kolkata),8.03,1995
+Howrah Junction Railway Station(Kolkata),Visakhapatnam Railway Station(Visakhapatnam),13,1240
+Victoria Memorial(Kolkata),Visakhapatnam Railway Station(Visakhapatnam),15.71,2736
+Howrah Bridge(Kolkata),Visakhapatnam Railway Station(Visakhapatnam),15.95,2740
+Dakshineswar Kali Temple(Kolkata),Visakhapatnam Railway Station(Visakhapatnam),15.07,2550
+Park Street(Kolkata),Visakhapatnam Railway Station(Visakhapatnam),15.78,2745
+Visakhapatnam Railway Station(Visakhapatnam),Ramakrishna Beach(Visakhapatnam),0.16,89
+Visakhapatnam Railway Station(Visakhapatnam),INS Kursurs Submarine Museum(Visakhapatnam),0.2,103
+Visakhapatnam Railway Station(Visakhapatnam),Borra Caves(Visakhapatnam),2.68,275
+Visakhapatnam Railway Station(Visakhapatnam),Araku Valley(Visakhapatnam),3.46,313
+Ramakrishna Beach(Visakhapatnam),INS Kursurs Submarine Museum(Visakhapatnam),0.03,0
+Ramakrishna Beach(Visakhapatnam),Borra Caves(Visakhapatnam),2.81,285
+Ramakrishna Beach(Visakhapatnam),Araku Valley(Visakhapatnam),3.61,350
+INS Kursurs Submarine Museum(Visakhapatnam),Borra Caves(Visakhapatnam),3.55,340
+INS Kursurs Submarine Museum(Visakhapatnam),Araku Valley(Visakhapatnam),3.55,340
+Borra Caves(Visakhapatnam),Araku Valley(Visakhapatnam),2.75,270
+Lingaraj Temple(Bhubaneswar),Ramakrishna Beach(Visakhapatnam),7.75,1219
+Lingaraj Temple(Bhubaneswar),INS Kursurs Submarine Museum(Visakhapatnam),7.76,1219
+Lingaraj Temple(Bhubaneswar),Borra Caves(Visakhapatnam),8.86,1291
+Lingaraj Temple(Bhubaneswar),Araku Valley(Visakhapatnam),9.66,1359
+Nandankanan Zoological Park(Bhubaneswar),Ramakrishna Beach(Visakhapatnam),9.08,1387
+Nandankanan Zoological Park(Bhubaneswar),INS Kursurs Submarine Museum(Visakhapatnam),8,1248
+Nandankanan Zoological Park(Bhubaneswar),Borra Caves(Visakhapatnam),9,2000
+Nandankanan Zoological Park(Bhubaneswar),Araku Valley(Visakhapatnam),9.08,1387
